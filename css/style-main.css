@@ -90,17 +90,16 @@ This file contains the common styles of this theme.
 
 /* @import "../css/stroke-gap-icons.css"; */
 @import "utility-classes.css";
-@import url('../../css-4.css');
 
 /*
  * Typography.less
  * -----------------------------------------------
 */
 
-@font-face {
-    font-family: 'Microsoft YaHei';
-    src: url(../fonts/my/chinese.msyh.woff);
-}
+/*@font-face {*/
+    /*font-family: 'Microsoft YaHei';*/
+    /*src: url(../fonts/my/chinese.msyh.woff);*/
+/*}*/
 ::selection {
 	background: #333333;
 	color: #fff;
@@ -172,7 +171,7 @@ h6, .h6 {
 	font-size: 12px;
 }
 h1, h2, .h1, .h2 {
-	font-family: 'Microsoft YaHei', serif;
+	/*font-family: 'Microsoft YaHei', serif;*/
 	font-weight: 600;
 	line-height: 1.42857143;
 	color: #333333;
@@ -186,7 +185,7 @@ h1 a, h2 a, .h1 a, .h2 a {
 	color: #333333;
 }
 h3, h4, h5, h6, .h3, .h4, .h5, .h6 {
-	font-family: 'Microsoft YaHei', serif;
+	/*font-family: 'Microsoft YaHei', serif;*/
 	font-weight: 400;
 	line-height: 1.42857143;
 	color: #333333;
@@ -10116,45 +10115,45 @@ footer.footer_border_columns .qode_column > .column_inner {
 .loader div {
 	flex: 1;
 	background: linear-gradient(90deg, rgba(230,195,124,1) 0%, rgba(228,206,151,1) 50%, rgba(230,195,124,1) 100%);
-	-webkit-animation: go 0.8s infinite alternate ease;
-	animation: go 0.8s infinite alternate ease;
+	-webkit-animation: go 0.3s infinite alternate ease;
+	animation: go 0.3s infinite alternate ease;
 	/*box-shadow: 0 0 20px salmon;*/
 }
 .loader div:nth-child(1) {
-	-webkit-animation-delay: -0.72s;
-	animation-delay: -0.72s;
-}
-.loader div:nth-child(2) {
 	-webkit-animation-delay: -0.64s;
 	animation-delay: -0.64s;
 }
-.loader div:nth-child(3) {
+.loader div:nth-child(2) {
 	-webkit-animation-delay: -0.56s;
 	animation-delay: -0.56s;
 }
-.loader div:nth-child(4) {
+.loader div:nth-child(3) {
 	-webkit-animation-delay: -0.48s;
 	animation-delay: -0.48s;
 }
-.loader div:nth-child(5) {
+.loader div:nth-child(4) {
 	-webkit-animation-delay: -0.4s;
 	animation-delay: -0.4s;
 }
-.loader div:nth-child(6) {
+.loader div:nth-child(5) {
 	-webkit-animation-delay: -0.32s;
 	animation-delay: -0.32s;
 }
-.loader div:nth-child(7) {
+.loader div:nth-child(6) {
 	-webkit-animation-delay: -0.24s;
 	animation-delay: -0.24s;
 }
-.loader div:nth-child(8) {
+.loader div:nth-child(7) {
 	-webkit-animation-delay: -0.16s;
 	animation-delay: -0.16s;
 }
-.loader div:nth-child(9) {
+.loader div:nth-child(8) {
 	-webkit-animation-delay: -0.08s;
 	animation-delay: -0.08s;
+}
+.loader div:nth-child(9) {
+	-webkit-animation-delay: -0.04s;
+	animation-delay: -0.04s;
 }
 .loader div:nth-child(10) {
 	-webkit-animation-delay: 0s;
@@ -11291,4 +11290,30 @@ body.has-fixed-footer .main-content {
 .addBG{
 	background: linear-gradient(90deg, rgba(230,195,124,1) 0%, rgba(228,206,151,1) 50%, rgba(230,195,124,1) 100%);
 	border: 2px #e4ce97 solid;
+}
+
+.white-bg-force{
+	background: white !important;
+}
+
+.customURLOverlay{
+
+	width: 100%;
+	height: 100%;
+	position: relative;
+	top: 0px;
+	display: block;
+	z-index: 1;
+}
+
+.aboutusContent h5{
+	font-weight: bolder;
+	font-size: 18px;
+	font-family: inherit;
+}
+.aboutusContent h6{
+	font-weight: bolder;
+	font-size: 16px;
+	font-family: inherit;
+
 }
