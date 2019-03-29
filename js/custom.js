@@ -2,14 +2,16 @@ var THEMEMASCOT = {};
 
 (function($) {
     "use strict";
-
+    var size_li = $("#casesgrid .gallery-item").size();
+    var x = 143;
     /* ---------------------------------------------------------------------- */
     /* --------------------------- Pagination for Case grid ----------------- */
     /* ---------------------------------------------------------------------- */
     $('#casesgrid').paginathing({
-        perPage: 43,
+        perPage: size_li, // show item per page
+        containerClass: 'pagination-container', // extend default container class
         insertAfter: '.cases-grid',
-        pageNumbers: false
+        pageNumbers: true// showing current page number of total pages number, to work properly limitPagination must be true
     });
 
 
@@ -43,13 +45,11 @@ var THEMEMASCOT = {};
     /* ---------------------------------------------------------------------- */
     /* --------------------------- Load More Items -------------------------- */
     /* ---------------------------------------------------------------------- */
-    var size_li = $("#casesgrid .gallery-item").size();
-    var x = 143;
+
     $('#casesgrid .gallery-item:lt(' + x + ')').show();
     $('#load-next-posts').click(function() {
         x = (x + 8 <= size_li) ? x + 8 : size_li;
         $('#casesgrid .gallery-item:lt(' + x + ')').show();
-        //$('#showLess').show();
         if (x == size_li) {
             $('#load-next-posts').hide();
         }
@@ -59,16 +59,58 @@ var THEMEMASCOT = {};
     /* ---------------------------------------------------------------------- */
     /* --------------------------- Filter and Trigger Click ----------------- */
     /* ---------------------------------------------------------------------- */
-    $(".portfolio-filter .filter_1_20").click(function() {
-        $(".pagination .page").first().find("a").trigger("click");
-    });
-
     $(".portfolio-filter .filter_all").click(function() {
-        $(".pagination .page").first().find("a").trigger("click");
+        $("#casesgrid").find(".gallery-item").show();
     });
 
-    $(".portfolio-filter .filter_21_40").click(function() {
-        $(".pagination .page").last().find("a").trigger("click");
+    $(".portfolio-filter .filter_1_15").click(function() {
+        $("#casesgrid").find(".gallery-item").each(function(){
+            if($(this).hasClass("1-15"))
+            {
+               $(this).show();
+            }
+            else {
+                $(this).hide();
+            }
+        });
+
+    });
+
+    $(".portfolio-filter .filter_15_30").click(function() {
+
+        $("#casesgrid").find(".gallery-item").each(function(){
+            if($(this).hasClass("16-30"))
+            {
+                $(this).show();
+            }
+            else {
+                $(this).hide();
+            }
+        });
+    });
+    $(".portfolio-filter .filter_30_50").click(function() {
+
+        $("#casesgrid").find(".gallery-item").each(function(){
+            if($(this).hasClass("31-50"))
+            {
+                $(this).show();
+            }
+            else {
+                $(this).hide();
+            }
+        });
+    });
+
+    $(".portfolio-filter .filter_art").click(function() {
+        $("#casesgrid").find(".gallery-item").each(function(){
+            if($(this).hasClass("art"))
+            {
+                $(this).show();
+            }
+            else {
+                $(this).hide();
+            }
+        });
     });
 
 
@@ -126,8 +168,6 @@ var THEMEMASCOT = {};
             }
         }
     });
-
-
 
     $('.owl-carousel-3col-noAutoPlay').owlCarousel({
         loop: true,
@@ -193,6 +233,35 @@ var THEMEMASCOT = {};
             },
             1000: {
                 items: 4,
+            }
+        }
+    });
+
+    $('.owl-carousel-5col').owlCarousel({
+        loop: true,
+        margin: 10,
+        autoplay: true,
+        nav: true,
+        items: 5,
+        dots: false,
+        responsive: {
+            0: {
+                items: 1,
+            },
+            375: {
+                items: 1,
+            },
+            414: {
+                items: 1,
+            },
+            600: {
+                items: 3,
+            },
+            1000: {
+                items: 4,
+            },
+            1375: {
+                items: 5,
             }
         }
     });
