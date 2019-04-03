@@ -63,6 +63,43 @@ var THEMEMASCOT = {};
         $("#casesgrid").find(".gallery-item").show();
     });
 
+    $(".portfolio-filter .filter_science").click(function() {
+        $("#casesgrid").find(".gallery-item").each(function(){
+            if($(this).hasClass("science"))
+            {
+               $(this).show();
+            }
+            else {
+                $(this).hide();
+            }
+        });
+    });
+
+    $(".portfolio-filter .filter_fineart").click(function() {
+        $("#casesgrid").find(".gallery-item").each(function(){
+            if($(this).hasClass("fineart"))
+            {
+               $(this).show();
+            }
+            else {
+                $(this).hide();
+            }
+        });
+
+    });
+    $(".portfolio-filter .filter_undergrad").click(function() {
+        $("#casesgrid").find(".gallery-item").each(function(){
+            if($(this).hasClass("undergrad"))
+            {
+               $(this).show();
+            }
+            else {
+                $(this).hide();
+            }
+        });
+
+    });
+
     $(".portfolio-filter .filter_1_15").click(function() {
         $("#casesgrid").find(".gallery-item").each(function(){
             if($(this).hasClass("1-15"))
