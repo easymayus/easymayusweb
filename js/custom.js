@@ -281,6 +281,7 @@ var THEMEMASCOT = {};
         nav: true,
         items: 5,
         dots: false,
+        autoplayTimeout:2500,
         responsive: {
             0: {
                 items: 1,
