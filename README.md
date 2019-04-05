@@ -1,1 +1,1 @@
-# Easymayus.com website
+# tedwong.github.io
