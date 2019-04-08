@@ -279,7 +279,7 @@ var THEMEMASCOT = {};
         margin: 10,
         autoplay: true,
         nav: true,
-        items: 5,
+        items: 4,
         dots: false,
         autoplayTimeout:2500,
         responsive: {
@@ -297,9 +297,6 @@ var THEMEMASCOT = {};
             },
             1000: {
                 items: 4,
-            },
-            1375: {
-                items: 5,
             }
         }
     });
