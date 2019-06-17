@@ -9920,11 +9920,6 @@ section:hover .title-effect::before, section:focus .title-effect::before {
 .bg-footer-color {
 	background-color: #171719;
 }
-
-.on-hover-underlined:hover{
-	text-decoration: underline;
-}
-
 .memorabilia .short-desc-text {
 	height: 146px;
 	overflow: hidden;
