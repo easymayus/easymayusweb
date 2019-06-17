@@ -1,2 +1,1 @@
-# Jekyll_Easymay
-Jekyll structure of Easymay's website
+# Easymayus.com website

@@ -19,8 +19,8 @@
 .ml12 .letter {
   display: inline-block;
   line-height: 1em;
+  color: white;
 }
-
 
 .small-20 {
   font-size: 20px !important;
