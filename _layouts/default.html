@@ -61,6 +61,14 @@
 
   <!-- external javascripts -->
   <script src="/js/jquery-2.2.4.min.js"></script>
+  <script>
+    setTimeout(function () {
+      var $preloader = $('#preloader');
+      if ($preloader.length > 0) {
+        $preloader.delay(2).fadeOut('fast');
+      }
+    }, 1)
+  </script>
   <script src="/js/jquery-ui.min.js"></script>
   <script src="/js/bootstrap.min.js"></script>
   <!-- JS | jquery plugin collection for this theme -->
@@ -125,14 +133,6 @@
   document.getElementById("outterLink1").addEventListener("click", function(){
     window.open("https://mp.weixin.qq.com/s/ulHtPMgRhGi3l1c58qD75g", '_blank')
   });
-</script>
-<script>
-  setTimeout(function () {
-    var $preloader = $('#preloader');
-    if ($preloader.length > 0) {
-      $preloader.delay(2).fadeOut('fast');
-    }
-  }, 1)
 </script>
 </body>
 </html>
