@@ -1,0 +1,80 @@
+
+<header id="header" class="header">
+
+
+  <div class="header-nav">
+    <div class="header-nav-wrapper">
+      <div class="container">
+        <nav id="menuzord" class="menuzord default theme-colored menuzord-responsive">
+          <div class="headerLogo"><a class="menuzord-brand pull-left flip sm-pull-center mt-10" href="/index.html"><img
+            src="/assets/logo.gif" alt=""></a></div>
+
+          <!-- Main Nav-->
+
+          <ul class="menuzord-menu pull-right nav-menu-main">
+            <li class="{% if page.url == '/' %}active{% endif %}"><a href="/index.html">主页</a></li>
+            <li class="{% if page.url == '/news.html' %}active{% endif %}"><a href="/news.html">易美事记</a></li>
+            <li class="{% if
+            page.url == '/services.html' or
+            page.url == '/planning-strategy.html' or
+            page.url == '/art-application.html' or
+            page.url == '/service-process.html'
+            %}active{% endif %} normalCursor"><a>易美服务</a>
+              <ul class="dropdown">
+                <li class="{% if page.url == '/vip-services.html' %}active{% endif %}"><a href="/vip-services.html">VIP圆梦名校计划</a></li>
+                <li class="{% if page.url == '/services.html' %}active{% endif %}"><a href="/services.html">尊贵专享计划</a></li>
+                <li class="{% if page.url == '/planning-strategy.html' %}active{% endif %}"><a href="/planning-strategy.html">完美申请计划</a></li>
+                <li class="{% if page.url == '/art-application.html' %}active{% endif %}"><a href="/art-application.html">艺术天才申请计划</a></li>
+                <li class="{% if page.url == '/service-process.html' %}active{% endif %}"><a href="/service-process.html">服务流程</a></li>
+                <li class="{% if page.url == '/improving.html' %}active{% endif %}"><a href="/improving.html">实习科研</a></li>
+              </ul>
+            </li>
+            <li class="{% if page.url == '/professions.html' %}active{% endif %}" ><a href="/professions.html">专家团队</a></li>
+            <li class="{% if page.url == '/improving.html' %}active{% endif %}" ><a href="/improving.html">实习科研</a></li>
+            <li class="{% if page.url == '/vip-services.html' %}active{% endif %}" ><a href="/vip-services.html">VIP直通车</a></li>
+            <li class="{% if page.url == '/application-letter-preview.html' %}active{% endif %}" ><a href="/application-letter-preview.html">精品文书</a></li>
+
+            <li class=" {% if
+            page.url == '/cases.html' or
+            page.url == '/success.html'
+            %}active{% endif %} normalCursor"><a>成功案例</a>
+              <ul class="dropdown">
+                <li class="{% if page.url == '/cases.html' %}active{% endif %}"><a href="cases.html" >名校offer榜</a></li>
+                <li class="{% if page.url == '/success.html' %}active{% endif %}"><a href="success.html">成功案例故事</a></li>
+              </ul>
+            </li>
+
+
+           <!-- <li class="{% if page.url == '/cases.html' %}active{% endif %}" ><a href="/cases.html">成功案例</a></li>-->
+
+
+            <li class="{% if
+            page.url == '/ranking.html' or
+            page.url == '/schools.html' or
+            page.url == '/majors.html'
+            %}active{% endif %} normalCursor"><a>院校专业</a>
+              <ul class="dropdown">
+                <li class="{% if page.url == '/ranking.html' %}active{% endif %}"><a href="/ranking.html">院校排名</a></li>
+                <li class="{% if page.url == '/schools.html' %}active{% endif %}"><a href="/schools.html">名校易剖析</a></li>
+                <li class="{% if page.url == '/majors.html' %}active{% endif %}"><a href="/majors.html">专业易解析</a></li>
+              </ul>
+            </li>
+            <li class="{% if page.url == '/online.html' %}active{% endif %}"><a href="/online.html">在线评估</a></li>
+            <li><a href="https://easymaylive.com/" target="_blank">易美居房产</a></li>
+            <li class="{% if
+            page.url == '/about.html' or
+            page.url == '/join-us.html' or
+            page.url == '/contact.html'
+            %}active{% endif %} normalCursor"><a>关于易美</a>
+              <ul class="dropdown">
+                <li class="{% if page.url == '/about.html' %}active{% endif %}"><a href="/about.html">关于易美</a></li>
+                <li class="{% if page.url == '/join-us.html' %}active{% endif %}"><a href="/join-us.html">加入我们</a></li>
+                <li class="{% if page.url == '/contact.html' %}active{% endif %}"><a href="/contact.html">联系我们</a></li>
+              </ul>
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+  </div>
+</header>
