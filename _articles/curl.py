@@ -47,7 +47,7 @@ for index, row in df.iterrows():
 
 for i in range(len(url)):
 	write_to_file = "cases_" +str(i+1) + ".md"
-	file = open(write_to_file, 'w+')
+	file = open(write_to_file, 'w+', encoding='utf-8')
 	file.write("---\n")
 	file.write("layout: post" + '\n') # order to show the articles
 	file.write("sequence: "+ str(i+1) + '\n') # order to show the articles
