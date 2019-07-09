@@ -72,8 +72,9 @@ for i in range(len(url)):
 		htmltxt_ = htmltxt.split('"weui-desktop-popover__content')
 		htmltxt = htmltxt_[0] + '"weui-desktop-popover__content" style="display:none;' + htmltxt_[1];
 		print("finished case: "+str(i)+" cases_" + title[i] + ".md")
-	except:
+	except Exception as e:
 		print("FAILED case: "+str(i)+" cases_" + title[i] + ".md")
+		print(e)
 
 	file.write(htmltxt+"\n")
 	file.close()
