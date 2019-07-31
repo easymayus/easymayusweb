@@ -3,7 +3,7 @@ title: 易美教育 | 易美高端留学 | Easymay
 layout: default
 ---
 <div id="wrapper" class="clearfix">
-    {% include preloader.html %}
+    <!-- {% include preloader.html %} -->
     {% include navigation.html %}
     <div class="main-content">
 

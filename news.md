@@ -6,7 +6,7 @@ layout: default
   <div id="wrapper" class="clearfix">
 
     <!-- preloader -->
-    {% include preloader.html %}
+    <!-- {% include preloader.html %} -->
     <!-- Header -->
     {% include navigation.html %}
   <div class="main-content">
