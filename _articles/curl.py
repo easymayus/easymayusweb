@@ -3,6 +3,7 @@ import os
 import subprocess
 import time
 import requests
+import math
 
 def remove_space(s):
 	res = ""
@@ -59,6 +60,8 @@ for i in range(len(url)):
 	file.write("title_short: " + str(title_short[i]) + '\n') # a shorter version of the article
 	file.write("use_short_title: " + str(short[i]) + '\n') # boolean value to decide if we use the shorter title
 	file.write("description: " + content[i] + '\n') # first paragraph of the article, acts as a brief description
+	if not math.isnan(year[i]): # covert year to int
+		year[i] = int(year[i])
 	file.write("year: " + str(year[i]) + '\n') # publish year of this article
 	file.write("---" + '\n\n')
 
