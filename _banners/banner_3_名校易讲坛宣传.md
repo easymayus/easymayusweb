@@ -1,6 +1,6 @@
 ---
 src: assets/home/Block1/1.jpg
-href: news.html
+href: professions.html
 sequence: 3
 ---
 
