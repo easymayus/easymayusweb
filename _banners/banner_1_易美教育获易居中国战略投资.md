@@ -1,5 +1,5 @@
 ---
-src: assets/home/Block1/0.jpg
+src: assets/home/Block1/funding.jpg
 href: /articles/cases_6.html
 sequence: 1
 ---
