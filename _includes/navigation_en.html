@@ -1,0 +1,84 @@
+
+<header id="header" class="header">
+
+
+    <div class="header-nav">
+      <div class="header-nav-wrapper">
+        <div class="container">
+          <nav id="menuzord" class="menuzord default theme-colored menuzord-responsive">
+            <div class="headerLogo"><a class="menuzord-brand pull-left flip sm-pull-center mt-10" href="/index_en.html"><img
+              src="/assets/logo.gif" alt=""></a></div>
+  
+            <!-- Main Nav-->
+  
+            <ul class="menuzord-menu pull-right nav-menu-main">
+              <li class="{% if page.url == '/' %}active{% endif %}"><a href="/index_en.html">Homepage</a></li>
+              <li class="{% if page.url == '/news.html' %}active{% endif %}"><a href="/news.html">News</a></li>
+              <li class="{% if
+              page.url == '/services.html' or
+              page.url == '/planning-strategy.html' or
+              page.url == '/art-application.html' or
+              page.url == '/service-process.html'
+              %}active{% endif %} normalCursor"><a>Services</a>
+                <ul class="dropdown">
+                  <li class="{% if page.url == '/vip-services.html' %}active{% endif %}"><a href="/vip-services.html">VIP Services</a></li>
+                  <li class="{% if page.url == '/services.html' %}active{% endif %}"><a href="/services.html">Services</a></li>
+                  <li class="{% if page.url == '/planning-strategy.html' %}active{% endif %}"><a href="/planning-strategy.html">Planning Strategy</a></li>
+                  <li class="{% if page.url == '/art-application.html' %}active{% endif %}"><a href="/art-application.html">Art Application</a></li>
+                  <li class="{% if page.url == '/service-process.html' %}active{% endif %}"><a href="/service-process.html">Service Process</a></li>
+                  <li class="{% if page.url == '/improving.html' %}active{% endif %}"><a href="/improving.html">Improving</a></li>
+                </ul>
+              </li>
+              <li class="{% if page.url == '/professions.html' %}active{% endif %}" ><a href="/professions.html">Professionals</a></li>
+              <li class="{% if page.url == '/improving.html' %}active{% endif %}" ><a href="/improving.html">Improving</a></li>
+              <li class="{% if page.url == '/vip-services.html' %}active{% endif %}" ><a href="/vip-services.html">VIP Services</a></li>
+              <li class="{% if page.url == '/application-letter-preview.html' %}active{% endif %}" ><a href="/application-letter-preview.html">Application Letter Preview</a></li>
+  
+              <li class=" {% if
+              page.url == '/cases.html' or
+              page.url == '/success.html'
+              %}active{% endif %} normalCursor"><a>Success Case</a>
+                <ul class="dropdown">
+                  <li class="{% if page.url == '/cases.html' %}active{% endif %}"><a href="cases.html" >Cases</a></li>
+                  <li class="{% if page.url == '/success.html' %}active{% endif %}"><a href="success.html">Success</a></li>
+                </ul>
+              </li>
+  
+  
+             <!-- <li class="{% if page.url == '/cases.html' %}active{% endif %}" ><a href="/cases.html">成功案例</a></li>-->
+  
+  
+              <li class="{% if
+              page.url == '/ranking.html' or
+              page.url == '/schools.html' or
+              page.url == '/majors.html'
+              %}active{% endif %} normalCursor"><a>Schools and Majors</a>
+                <ul class="dropdown">
+                  <li class="{% if page.url == '/ranking.html' %}active{% endif %}"><a href="/ranking.html">Ranking</a></li>
+                  <li class="{% if page.url == '/schools.html' %}active{% endif %}"><a href="/schools.html">Schools</a></li>
+                  <li class="{% if page.url == '/majors.html' %}active{% endif %}"><a href="/majors.html">Majors</a></li>
+                </ul>
+              </li>
+              <li class="{% if page.url == '/online.html' %}active{% endif %}"><a href="/online.html">Online Accessment</a></li>
+              <li><a href="https://easymaylive.com/" target="_blank">Easmay Live</a></li>
+              <li class="{% if
+              page.url == '/about.html' or
+              page.url == '/join-us.html' or
+              page.url == '/contact.html'
+              %}active{% endif %} normalCursor"><a>About</a>
+                <ul class="dropdown">
+                  <li class="{% if page.url == '/about.html' %}active{% endif %}"><a href="/about.html">About Us</a></li>
+                  <li class="{% if page.url == '/join-us.html' %}active{% endif %}"><a href="/join-us.html">Join Us</a></li>
+                  <li class="{% if page.url == '/contact.html' %}active{% endif %}"><a href="/contact.html">Contact Us</a></li>
+                </ul>
+              </li>
+                
+              <li>
+                  <a href="/index.html" target="_blank">Chinese</a>
+              </li>
+            </ul>
+          </nav>
+        </div>
+      </div>
+    </div>
+  </header>
