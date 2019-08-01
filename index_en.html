@@ -1,0 +1,760 @@
+<!-- ---
+layout: default
+title: 易美教育 | 易美高端留学 | Easymay
+partner_array:
+   - 36k
+   - abc news
+   - 东方财务
+   - 中华网
+   - 中国日报
+   - 中国网
+   - 中金在线
+   - 人民日报
+   - 光明网
+   - 投资界
+   - 搜狐
+   - 搜狐教育
+   - 新浪财经
+   - 新芽
+   - 猎云网
+   - 环球网
+   - 网易
+   - 腾讯教育
+   - 腾讯财经
+   - 鲸媒体
+   - 值得依赖
+   - 行业创新
+   - 真诚稳健
+   - 充满活力
+   - 安全可靠
+   - 威斯康星大学麦迪逊分校华人本科学生会
+   - 普渡大学中国学生学者联谊会
+   - 宾州州立大学华人本科学生会
+   - 华盛顿大学中国学生学者联谊会
+   - 加州大学戴维斯分校中国学生学者联谊会
+   - 俄亥俄州立大学中国学生学者联合会
+   - 天普大学中国学生学者联谊会
+   - 亚利桑那州立大学中国学生会
+   - 内布拉斯加林肯大学中国学生学者联合会
+   - 罗格斯大学中国学生学者联谊会
+   - 亚利桑那州立大学中国学生会
+   - 特拉华大学中国学生学者联谊会
+   - 爱荷华大学中国学生学者联谊会
+   - 伊利诺伊大学香槟分校华人学生学者联合会
+   - 迈阿密大学牛津分校中国学生学者联谊会
+   - 佛罗里达大学大学中国学生会
+   - 堪萨斯大学中国学生学者联谊会
+   - 俄勒冈大学中国留学生学者联谊会
+   - 俄勒冈州立大学中国留学生学者联谊会
+   - 明尼苏达大学中国学生学者联谊会
+   - 爱荷华州立大学中国学生学者联谊会
+   - 波特兰州立大学中国学生学者联合会
+   - 威斯康星大学密尔沃基分校中国学生学者联谊会
+   - 福特汉姆大学中国学生学者联合会
+   - 南加州大学中国学生学者联合会
+   - 雪城大学中国学生学者联谊会
+   - 美利坚大学中国学生学者联谊会
+   - 乔治华盛顿大学中国学生学者联合会
+   - 马里兰大学中国学生学者联合会
+   - 弗吉尼亚理工大学中国学生学者联谊会
+   - 科罗拉多大学波尔多分校中国学生学者联谊会
+--- -->
+
+<div class="" id="HomeIndex">
+  <div id="wrapper" class="clearfix">
+
+    <!-- preloader -->
+    <!-- {% include preloader.html %} -->
+
+    <!-- Header -->
+    {% include navigation.html %}
+
+    <!-- Start main-content -->
+
+    <div class="main-content">
+      <section id="home" class="divider mobileShowArrow">
+        <div class="container-fluid p-0">
+          <!--this part is the banner of the index page-->
+          <div id="rev_slider_5_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-alias="test"
+               data-source="gallery"
+               style="margin:0px auto;background:#0c0b09;padding:0px;margin-top:0px;margin-bottom:0px;">
+
+            <!-- START REVOLUTION SLIDER 5.4.7.2 fullwidth mode -->
+
+            <div id="rev_slider_5_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.4.7.2">
+              <ul>
+
+                <!-- SLIDES  -->
+
+          {% assign i = 27 %}
+          {% assign sorted = site.banners | sort:"sequence" %}
+          {% for banner in sorted %}
+
+          <li data-index="rs-{{i}}" data-transition="fade" data-slotamount="7,7" data-hideafterloop="0"
+                    data-hideslideonmobile="off" data-easein="default,default" data-easeout="default,default"
+                    data-masterspeed="300,300" data-thumb="{{banner.src}}" data-rotate="0,0"
+                    data-fstransition="fade" data-fsmasterspeed="300" data-fsslotamount="7" data-saveperformance="off"
+                    data-title="Welcome" data-param1="" data-param2="" data-param3="" data-param4="" data-param5=""
+                    data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+
+                  <!-- MAIN IMAGE -->
+
+                  <a href="{{banner.href}}" target="_blank" class="customURLOverlay">
+                  </a>
+                    <img src="{{banner.src}}" alt="" title="1" width="1920" height="480"
+                         data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off"
+                         class="rev-slidebg" data-no-retina>
+
+                  <!-- LAYERS -->
+          </li>
+
+          {% assign i = i | plus:1 %}
+          {% endfor %}
+               
+              </ul>
+              <div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>
+            </div>
+          </div>
+          <!-- END REVOLUTION SLIDER -->
+
+        </div>
+      </section>
+
+      <!-- Section About, introduction to easy may, who we are -->
+      <section class="bg-silver-light aboutus-container preload">
+        <div class="container">
+          <div class="section-content">
+            <div class="row">
+              <div class="col-md-6">
+                <h2 class="text-uppercasetext-theme-colored mt-0 line-bottom-theme-colored2 mb-20">Who We <span
+                  class="text-color-golden">Are</span></h2>
+                <p class="mb-8 font-13 text-white text-justify">
+                    Based out of the company’s headquarters on New York’s storied Wall Street location, Easymay Group is committed to delivering students premium resources and opportunities to further their education goals. Easymay Education and Easymay Live represent high-end sub-brands in the sectors of education and US real estate service respectively. The company’s distinction originates from its bespoke high-quality service, results-oriented focus, vast overseas resources, and the employment of a team of US-based professionals with unparalleled pedigree. Easymay Group's solutions range from long-term education planning, study abroad applications, vocational training, study roadmaps, and plans, exam preparation, and real estate consultation, amongst other customized solutions. Easymay has garnered  high levels of credibility and transform into a leading educational consulting brand in the US.
+                </p>
+                <p class="text-white font-13 text-justify">
+                    In 2018, Easymay Group completed strategic investments from institutional sponsor based in China, E-House (China) Holdings Limited, amounting to over Tens of millions of dollars. In 2016 and 2017, Easymay was the only U.S. based educational consulting company in “North America University Tour”, and was the exclusive sponsor for “US-China VC Summit & Startup Expo” in education sector. The education group collaborates with a proprietary network that encompasses over 60  top universities and more than 70,000 international students in the US. Easymay is the only educational consulting company that passed the background investigation to participate major summits in Ivy Leagues and other top tier universities such as Harvard University, University of Pennsylvania, Columbia University, and Cornell University, and have correspondence with admission professionals. Easymay’s exclusive pool with over 50 top 30 ranked US universities former school admissions officers, and thousands of senior executives from leading corporate enterprises, enabled the students to have one-on-one private consultation. By combining the top education resources and sophisticated consulting service team from Easymay, students are given a strong chance to achieve their dream schools and dream companies. 
+                </p>
+              </div>
+              <div class="col-md-6">
+                <!-- large video box -->
+                <div class="box-hover-effect about-video mt-sm-30">
+                  <div class="effect-wrapper">
+                    <div class="thumb active-video"><img class="img-fullwidth" src="assets/home/Block2/A1.jpeg" alt="project"></div>
+
+
+                    <!-- Modal -->
+                    <div class="modal fade video-wrapper " id="myModal1" tabindex="-1" role="dialog">
+                      <div class="modal-dialog" role="document">
+                        <div class="modal-content">
+                          <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
+                              aria-hidden="true">&times;</span></button>
+                            <!--<h4 class="modal-title" id="myModalLabel">Modal title</h4>-->
+                          </div>
+                          <div class="modal-body">
+                            <video class="video-html5" width="320" height="240" controls>
+                              <source src="assets/home/Block2/1.m4v" type="video/mp4">
+                              Your browser does not support the HTML video.
+                            </video>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+
+
+
+                    <div data-toggle="modal" data-target="#myModal" class="video-button"></div>
+                    <a class="hover-link-video" data-toggle="modal" data-target="#myModal1" href="#" title="Video"></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+              <!-- gallery constrcted from small video box -->
+
+
+
+
+            {% assign i = 2 %}
+            {% assign vs = site.ivideos | sort:"sequence" %}
+            {% for video in vs %}
+
+            <!-- Modal Video-1 -->
+            <div class="modal fade video-wrapper" id="myModal{{i}}" tabindex="-1" role="dialog">
+              <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                  <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
+                    </button>
+                    <!--<h4 class="modal-title">Modal title</h4>-->
+                  </div>
+                  <div class="modal-body">
+                    <video class="video-html5" width="320" height="240" controls>
+                      <source src="{{video.src}}" type="video/mp4">
+                      Your browser does not support the HTML video.
+                    </video>
+                  </div>
+                </div>
+              </div>
+            </div>
+            {% assign i = i | plus:1 %}
+            {% endfor %}
+          
+
+
+
+
+            <div class="row mt-15 pl-15 pr-15">
+              <div class="owl-carousel-4col memorabilia">
+
+            {% assign i = 2 %}
+            {% assign vs = site.ivideos | sort:"sequence" %}
+            {% for video in vs %}
+
+                <div class="item">
+                  <div class="item col-md-12">
+                    <div class="box-hover-effect about-video mt-sm-30">
+                      <div class="effect-wrapper">
+                        <div class="thumb"><img class="img-fullwidth" src="{{video.imgsrc}}" alt="project">
+                        </div>
+                        <div class="video-button"></div>
+                        <a class="hover-link-video" data-toggle="modal" data-target="#myModal{{i}}" href="#"
+                           title="Youtube Video">Youtube Video</a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+            {% assign i = i | plus:1 %}
+            {% endfor %}
+
+            
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+
+<!-- Friday Todo starts from here -->
+      <section id="blog-story">
+        <div class="container pb-sm-40" style="margin-top: -50px;">
+          <div class="row justify-content-center">
+            <div class="section-title text-center pl-15 pr-15">
+
+              <a href="success.html"><h2 class="title-effect text-theme-colored2 mt-0">Easymay Successful Case</h2></a>
+              <p class="text-white">Integrate cutting-edge US educational resources to empower students through expertise</p>
+            </div>
+          </div>
+          <div class="section-content">
+            <div class="row pl-15 pr-15">
+              <div class="owl-carousel-5col memorabilia" data-duration="1000">
+
+            {% assign ar = site.articles | sort:"sequence" %}
+            {% for article in ar %}
+            {% if article.appear_page contains 'index_short' %}
+
+                <div class="item">
+                  <article class="post">
+                  <div class="post-thumb position-relative">
+                  <img class="img-fullwidth" src="{{article.src}}" alt="" title="" height="172px" width="260px"> <span>易美独家</span></div>
+                  <div class="post-description border-bottom-theme-colored2-1px pb-20">
+                  <h5 class="font-weight-600 text-gray-lightgray mt-20 mb-0">2019</h5>
+                  <a href="{{article.url}}" target="_blank">
+                  <h3 class="title text-theme-colored2 font-weight-600 mt-0 mb-15 font-14 on-hover-underlined">
+                  {% if article.use_short_title == "true" %}
+                  {{article.title_short}}
+                  {% else %}
+                  {{article.title}}
+                  {% endif %}
+
+                  </h3></a>
+                  </div>
+                  </article>
+                </div>
+            {% endif %}
+            {% endfor %}
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+<!-- Friday Todo Ends here -->
+
+      <section class="divider parallax text-center" data-bg-img="assets/home/Block3/block3_bg_1.png">
+        <div class="container pt-80 pb-80">
+          <div class="row">
+            <div class="col-md-12 text-center text-white">
+              <h1 class="ml12">
+              <span class="text-wrapper">
+              <span class="letters font-weight-800 font-29 ">美国本土第一公信力的高端留学咨询品牌</span>
+            </span>
+              </h1>
+              <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Section: Gallery -->
+      <section id="gallery" class="parallax professions-info">
+        <div class="container">
+          <div class="row justify-content-center">
+            <div class="section-title text-center pl-15 pr-15">
+
+              <h2 class="title-effect text-theme-colored2 mt-0">EasyMay Featured Team - Former American Admissions Officers</h2>
+              <p class="text-white">数十位名校前招生官坐镇美国，为您名校之路保驾护航</p>
+            </div>
+          </div>
+          <div class="section-content">
+            <div class="row">
+              <div class="col-md-12">
+
+          <!-- Portfolio Gallery Grid -->
+        <div id="grid" class="gallery-isotope default-animation-effect grid-3 gutter clearfix">
+
+          <!-- Portfolio Item Start -->
+            {% assign ris = site.recruiterintros | sort:"sequence" %}
+            {% for ri in ris %}
+
+              <div class="gallery-item">
+                <div class="project-gallery">
+                   <div class="project-thumb"><img class="img-fullwidth" alt="" src="{{ri.src}}">
+                        <div class="project-caption font-11"> 
+
+                          {{ri.content}}
+
+                          <a href="#reservation_form" class="text-white font-13">马上预约 <span
+                            class="fa fa-angle-right"></span></a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+            {% endfor %}
+
+                </div>
+                <!-- End Portfolio Gallery Grid -->
+
+              </div>
+            </div>
+          </div>
+
+          <div class="text-center">
+            <a class=" solidButton" href="professions.html" style="transition: none 0s ease 0s; text-align: inherit; line-height: 19px; border-width: 1px; margin: 40px 20px; padding: 18px 22px; letter-spacing: 0px; font-weight: 400; font-size: 20px;">了解更多招生官信息</a>
+          </div>
+        </div>
+        </section>
+
+        <!-- Section: Team -->
+
+      <section class="" data-bg-img="assets/home/Block5/bg2.jpg"
+               data-bg-parallax="0.3">
+        <div class="container pb-sm-20">
+          <div class="section-content">
+            <div class="row">
+              <div class="col-xs-12 col-sm-6 col-md-3 pb-sm-20">
+                <div class="image-box-thumb"><img class="img-fullwidth" alt="" src="assets/home/Block5/1.png"></div>
+                <div class="image-box-details pt-30 pb-sm-20 text-white noBold">
+                  <h4 class="title text-uppercase text-white font-weight-600 mt-0 mb-15 text-theme-colored2">Specialized Proprietary Resources Within Top American Universities</h4>
+                  <!--<h6 class="text-gray-lightgray mt-0"><em>CEO - eConsulting</em></h6>-->
+                  <p>The EasyMay team works to continuously learn through experience, formulate independent thinking, and persevere past different obstacles, for the creation of specialized and impactful consulting solutions for students. EasyMay collaborates with a proprietary network with former admissions officers that encompasses over top 50 ranked universities in the US. EasyMay has garnered high levels of credibility and transformed into a leading educational consulting brand in the US.</p>
+                </div>
+              </div>
+              <div class="col-xs-12 col-sm-6 col-md-3 pb-sm-20">
+                <div class="image-box-thumb"><img class="img-fullwidth" alt="" src="assets/home/Block5/2.png"></div>
+                <div class="image-box-details pt-30 pb-sm-20 text-white noBold">
+                  <h4 class="title text-uppercase text-white font-weight-600 mt-0 mb-15 text-theme-colored2">Collaborative Team Effort with top-teir overseas experts</h4>
+                  <!--<h6 class="text-gray-lightgray mt-0"><em>CEO - eConsulting</em></h6>-->
+                  <p>Our consultants graduated from top universities with doctoral degrees, master’s degrees, and educational backgrounds experts team up together. EasyMay teams integrates the most cutting-edge educational resources in the US, building a sustainable framework for successfully Sino-US education abroad. Aiding students on long-term education planning, study abroad applications, vocational training, and study roadmaps and plans, EasyMay teams enable students to strengthen their backgrounds in every aspect. The three different teams synergize and work seamlessly to create the ideal application for each EasyMay client. </p>
+                </div>
+              </div>
+              <div class="col-xs-12 col-sm-6 col-md-3 pb-sm-20">
+                <div class="image-box-thumb"><img class="img-fullwidth" alt="" src="assets/home/Block5/3.png"></div>
+                <div class="image-box-details pt-30 pb-sm-20 text-white noBold">
+                  <h4 class="title text-uppercase text-white font-weight-600 mt-0 mb-15 text-theme-colored2">Low Initial Down Payment</h4>
+                  <!--<h6 class="text-gray-lightgray mt-0"><em>CEO - eConsulting</em></h6>-->
+                  <p>EasyMay’s long industry experience means that the company understands the concerns and misgivings of many overseas clients regarding expensive services provided by Easymay’s competitors. As a result, the company adopts a low initial down payment, with the remainder of the balance paid at upon an offer of admission. EasyMay believes in the idea of service before contract and adopts this method to show that the company’s interests are aligned with that of the company’s clients. As a result of this decision, Easymay has accumulated high recognition and overall trust for a number of years. With the prevalence of public praise and positive feedback, EasyMay is encouraged to continue its goal to provide students and parents with the best service possible.</p>
+                </div>
+              </div>
+              <div class="col-xs-12 col-sm-6 col-md-3 pb-sm-20">
+                <div class="image-box-thumb"><img class="img-fullwidth" alt="" src="assets/home/Block5/4.png"></div>
+                <div class="image-box-details pt-30 pb-sm-20 text-white noBold">
+                  <h4 class="title text-uppercase text-white font-weight-600 mt-0 mb-15 text-theme-colored2">Exclusive US Universities Database</h4>
+                  <!--<h6 class="text-gray-lightgray mt-0"><em>CEO - eConsulting</em></h6>-->
+                  <p>Based on the massive amounts of cases we have handled, Easymay is the first company of its kind to set up an our own internal database of admission information of data for Ivy League and other top- tier universities that include but is not limited to minimum standardized testing scores for admissions, acceptance rate trends, recent curriculum, admissions success case studies, and education object fits of different universities.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Section: Services -->
+
+      <section id="services" class="services">
+        <div class="container pb-50 pt-100">
+          <div class="section-content services-block">
+            <div class="row">
+
+              <!-- Item Start-->
+
+              <div class="col-xs-12 col-sm-6 col-md-4">
+                <div class="icon-box  icon-filled left media p-0 mb-5"><a
+                  class="media-left pull-left flip numberl text-white" href="#">1</a>
+                  <div class="media-body">
+                    <h6 class="media-heading heading font-weight-600 text-theme-colored2 font-19">US style essay</h6>
+                    <h6 class="media-heading heading font-weight-600 font-20 text-white">High quality essay revised by admissions officers from Ivy League</h6>
+                  </div>
+                </div>
+                <p class="pb-40 text-white">
+                    Free from the traditional essay translation, Easymay’s team, composing of US doctoral degree graduates and elite working professionals, helps clients provide an unparalleled level of quality with  different styles to match the candidate’s personalities and the school’s featured concentrations. 
+                    The essay amendments are then combining with the Sino-US cultural elements, provide additional preferences of admissions habits of different universities to enhance the overall application’s competitiveness by multiple folds.
+                     </p>
+              </div>
+
+              <!-- Item End-->
+
+              <!-- Item Start-->
+
+              <div class="col-xs-12 col-sm-6 col-md-4">
+                <div class="icon-box  icon-filled left media p-0 mb-5"><a
+                  class="media-left pull-left flip numberl text-white" href="#">2</a>
+                  <div class="media-body">
+                    <h6 class="media-heading heading font-weight-600 text-theme-colored2 font-19">High Efficiency</h6>
+                    <h6 class="media-heading heading font-weight-600 font-20 text-white">24/7 communication access</h6>
+                  </div>
+                </div>
+                <p class="pb-40 text-white">
+                    With Ivy League education background, EasyMay specialists use native expressions to communicate with admission officers. EasyMay specialists maintain immediate communication with admission offices to help address concerns and accelerate the application process
+                </p>
+              </div>
+
+              <!-- Item End-->
+
+              <!-- Item Start-->
+
+              <div class="col-xs-12 col-sm-6 col-md-4">
+                <div class="icon-box  icon-filled left media p-0 mb-5"><a
+                  class="media-left pull-left flip numberl text-white" href="#">3</a>
+                  <div class="media-body">
+                    <h6 class="media-heading heading font-weight-600 text-theme-colored2 font-19">High acceptance rate</h6>
+                    <h6 class="media-heading heading font-weight-600 font-20 text-white">Overcome admissions despite with low/suboptimal standardized test scores</h6>
+                  </div>
+                </div>
+                <p class="pb-40 text-white">
+                    EasyMay has established long-term cooperation relationship with top universities to constantly analyze the admission standards, program missions, and GPA formula of various universities. Upon the deep analysis and effective communication with admission offices, EasyMay students are highly competitive among candidates.
+                </p>
+              </div>
+
+              <!-- Item End-->
+
+              <!-- Item Start-->
+
+              <div class="col-xs-12 col-sm-6 col-md-4">
+                <div class="icon-box  icon-filled left media p-0 mb-5"><a
+                  class="media-left pull-left flip numberl text-white" href="#">4</a>
+                  <div class="media-body">
+                    <h6 class="media-heading heading font-weight-600 text-theme-colored2 font-19">Best of the kind</h6>
+                    <h6 class="media-heading heading font-weight-600 font-20 text-white">A team of former American Admissions Officers</h6>
+                  </div>
+                </div>
+                <p class="pb-40 text-white">
+                    Team members have been engaged in the enrollment admission work for many years, and have mastered the internal admission process. The team will control document quality from clients and also help monitor application progress, ultimately greatly enhancing each students’ application personality and the chance of matching students with the best degree. 
+                </p>
+              </div>
+
+              <!-- Item End-->
+
+              <!-- Item Start-->
+
+              <div class="col-xs-12 col-sm-6 col-md-4">
+                <div class="icon-box  icon-filled left media p-0 mb-5"><a
+                  class="media-left pull-left flip numberl text-white" href="#">5</a>
+                  <div class="media-body">
+                    <h6 class="media-heading heading font-weight-600 text-theme-colored2 font-19">High-end custom</h6>
+                    <h6 class="media-heading heading font-weight-600 font-20 text-white">Personalized application plan</h6>
+                  </div>
+                </div>
+                <p class="pb-40 text-white">
+                    Deep analysis on admission requirements for different programs, customized strategies for different schools, combining with EasyMay’s exclusive first-hand internal data, EasyMay helps students to optimize a detailed application plan for their dream schools. EasyMay is the first of its kind to find a new way out “Pay full amount in advance, guarantee your safety school.” EasyMay pioneered the new-customer-assurance model, focusing on the student’s own personalities to help them outstand other candidates. EasyMay have helped thousands of students enter Ivy League schools and other prominent institutions.
+                </p>
+              </div>
+
+              <!-- Item End-->
+
+              <!-- Item Start-->
+
+              <div class="col-xs-12 col-sm-6 col-md-4">
+                <div class="icon-box  icon-filled left media p-0 mb-5"><a
+                  class="media-left pull-left flip numberl text-white" href="#">6</a>
+                  <div class="media-body">
+                    <h6 class="media-heading heading font-weight-600 text-theme-colored2 font-19">Customized Roadmap Planning</h6>
+                    <h6 class="media-heading heading font-weight-600 font-20 text-white">Background promotion with remote internship projects</h6>
+                  </div>
+                </div>
+                <p class="pb-40 text-white">
+                    With hundreds of senior executives from leading corporate enterprises, and other elite leaders of different fields joined EasyMay network, the company initiated its pioneering EasyMay Professional Counseling Committee. Combined with internship experience through boutique projects provided by EasyMay, it will promote correct background knowledge, and enhance the overall professional experience of the student’s application.
+                </p>
+              </div>
+
+              <!-- Item End-->
+
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Section: Services -->
+
+      <section class="services parallax" data-bg-img="assets/home/Block7/bg2.png">
+        <div class="container pb-100 pt-100">
+          <div class="section-content testimonial-block">
+            <div class="owl-carousel">
+
+              <div class="item">
+                <div class="testimonials"><img class="" src="assets/home/test/1.jpeg" alt="" title="">
+                  <p class="text-center text-white"> 大部分同事或其他学校的招生官都具备多年的招生经验，对各国学生的文书套路都非常熟悉。在成千上万的申请者都符合录取要求时，那些看似并没有被用心准备过的申请，将会被直接拒接，甚至得不到进一步的审核。"
+                    <br /><br /><strong>  哥伦比亚大学前招生官阿尔伦女士 </strong></p>
+                </div>
+              </div>
+
+              <div class="item">
+                <div class="testimonials"><img class="" src="assets/home/test/2.jpeg" alt="" title="">
+                  <p class="text-center text-white"> 高分不等于一切，我看到许多高分的申请者，由于他们的整体态度不够诚恳、在补充材料中表现平平而最终未能如愿得到offer。"
+                    <br /><br /><strong>  哈佛大学前招生官伊万斯女士</strong></p>
+                </div>
+              </div>
+
+              <div class="item">
+                <div class="testimonials"><img class="" src="assets/home/test/3.jpeg" alt="" title="">
+                  <p class="text-center text-white"> 我们会审查申请者的成绩单，寻找出与对应专业的核心课程的成绩。同时我们会评估课程的内容范围，以及学生是否达到了最低要求或成功完成难度较高的课程，根据不同的学生与课程分布去衡量学生的标准化成绩，而不是单单只看一个数字。"
+                    <br /><br /><strong>  西北大学前招生官赛莱蒙女士 </strong></p>
+                </div>
+              </div>
+              
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Section: blog -->
+
+      <section id="blog">
+        <div class="container pb-sm-40">
+          <div class="row justify-content-center">
+            <div class="section-title text-center pl-15 pr-15">
+
+              <h2 class="title-effect text-theme-colored2 mt-0">History and Timeline</h2>
+              <p class="text-white">Integrate cutting-edge US educational resources to empower students through expertise</p>
+            </div>
+          </div>
+          <div class="section-content">
+            <div class="row pl-20 pr-20">
+              <div class="owl-carousel-3col-noAutoPlay memorabilia">
+
+                {% assign sorted = site.articles | sort:"sequence" %}
+                {% for case in sorted %}
+                {% if case.appear_page contains 'easymaycase' %}
+
+                <div class="item">
+                  <article class="post">
+                    <div class="post-thumb position-relative"><img src="{{case.src}}" class="img-fullwidth" alt="" height = "246" > <span>易美独家</span></div>
+                    <div class="post-description border-bottom-theme-colored2-1px pb-20">
+                      <h5 class="font-weight-600 text-gray-lightgray mt-20 mb-0">{{case.year}}</h5>
+                      <h3 class="post-title text-theme-colored2 font-weight-600 mt-0 mb-20 font-20">
+                        {{case.title}}
+                      </h3>
+                      <p class="mb-20 short-desc-text">
+                        {{case.description}}
+                      </p>
+                      <a href="{{case.url}}" target="_blank">了解更多</a>
+                    </div>
+                  </article>
+                </div>
+                {% endif %}
+                {% endfor %}
+
+                
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Divider: Clients -->
+
+      <section class="clients">
+        <div class="container pt-15 pb-40">
+          <div class="row">
+           {% assign i = 1%}
+           {% for item in page.partner_array%}
+
+            <div class="col-md-3 col-sm-3 col-xs-6">
+              <div class="box-hover-effect effect-barlin wow fadeInLeft" data-wow-duration="1.2s" data-wow-offset="10">
+                <div class="effect-wrapper">
+                  <div class="thumb"><img class="img-fullwidth" src="assets/home/partners/m{{i}}.jpg" alt="project"></div>
+                  <div class="overlay-shade"></div>
+                  <div class="text-holder text-holder-middle text-center">
+                    <div class="text_holder_inner">
+                      <div class="text_holder_inner2">
+                        <h2 class="title1 text-white mb-0 font-18">{{item}}</h2>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            {% assign i = i | plus:1 %}
+            {% endfor %}
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <!-- end main-content -->
+
+    <!-- Divider: Reservation Form -->
+
+    <section id="reservation" class="bg-footer-color">
+      <div class="container pb-60">
+        <div class="row">
+          <div class="col-md-5">
+            <h3 class="title-effect text-white font-24 font-weight-600 mt-0 mb-20">真正的名校梦想，需要用心来实现</h3>
+            <div class="line-bottom-rounded-theme-colored2"></div>
+            <p class="text-white mt-15 mb-15">
+                Hard efforts needed for realizing a top university dream, the turning point of a child’s life should not based solely on a contract. Easymay wishes its best to support you on your way at the beginning of study abroad. Built with an emphasis on quality results and world-class integrity, we implement extensive experience in the local US education market, innovative counseling techniques, and top- tier professionals for delivering impactful solutions. Easymay wishes you never forget why you started, and makes a better you on your study.
+            </p>
+          </div>
+          <div class="col-md-7">
+            <div class="mt-sm-40">
+              <h5 class="text-white">让易美竭诚为您服务，共享成就</h5>
+
+              <!-- Reservation Form Start-->
+
+              <form role="form" method="post" id="reservation_form">
+                <div class="row">
+                  <div class="col-sm-12">
+                    <div class="form-group mb-20">
+                      <input type="text" class="form-control" id="firstname" name="firstname" maxlength="50"
+                             placeholder="姓名*">
+                    </div>
+                  </div>
+                  <div class="col-sm-12">
+                    <div class="form-group mb-20">
+                      <input type="text" class="form-control" id="email" name="email" maxlength="50" placeholder="邮箱*">
+                    </div>
+                  </div>
+                  <div class="col-sm-12">
+                    <div class="form-group mb-20">
+                      <div class="styled-select">
+                        <select id="category" name="category" class="form-control" aria-required="true">
+                          <option value="NA">- 服务类别 -</option>
+                          <option value="us_graduate_application ">美国研究生申请服务</option>
+                          <option value="us_undergraduate_application">美国本科申请服务</option>
+                          <option value="us_undergraduate_transfer">美国本科转学服务</option>
+                          <option value="us_highschool_application">美国高中申请服务</option>
+                        </select>
+                        <i class="fa fa-caret-down"></i></div>
+                    </div>
+                  </div>
+
+                  <div class="col-sm-3">
+                    <div class="form-group mb-0 mt-0">
+                      <button type="submit" class="btn btn-default btn-transparent btn-block pt-10 pb-10">预约咨询
+                      </button>
+                    </div>
+                  </div>
+
+                </div>
+              </form>
+
+              <div id="success_message" style="width:100%; height:100%; display:none; "><h3>预约成功！</h3></div>
+              <div id="error_message" style="width:100%; height:100%; display:none; "><h3>Error</h3> 服务器更新中
+              </div>
+
+              <!-- Reservation Form End-->
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    {% include footer.html %}
+  </div>
+</div>
+
+ <script> var revapi5, tpj;
+          (function () {
+            if (!/loaded|interactive|complete/.test(document.readyState)) document.addEventListener("DOMContentLoaded", onLoad); else onLoad();
+
+            function onLoad() {
+              if (tpj === undefined) {
+                tpj = jQuery;
+                if ("on" == "on") tpj.noConflict();
+              }
+              if (tpj("#rev_slider_5_1").revolution == undefined) {
+                revslider_showDoubleJqueryError("#rev_slider_5_1");
+              } else {
+                revapi5 = tpj("#rev_slider_5_1").show().revolution({
+                  sliderType: "standard",
+                  jsFileLocation: "//credentusa.com/wp-content/plugins/revslider/public/assets/js/",
+                  sliderLayout: "fullwidth",
+                  dottedOverlay: "none",
+                  delay: 4000,
+                  navigation: {
+                    keyboardNavigation: "on",
+                    keyboard_direction: "horizontal",
+                    mouseScrollNavigation: "off",
+                    mouseScrollReverse: "default",
+                    onHoverStop: "on",
+                    touch: {
+                      touchenabled: "on",
+                      touchOnDesktop: "off",
+                      swipe_threshold: 75,
+                      swipe_min_touches: 1,
+                      swipe_direction: "horizontal",
+                      drag_block_vertical: false
+                    },
+                    arrows: {
+                      style: "hermes",
+                      enable: true,
+                      hide_onmobile: false,
+                      hide_under: 700,
+                      hide_onleave: false,
+                      tmp: '<div class="tp-arr-allwrapper">  <div class="tp-arr-imgholder"></div>  <div class="tp-arr-titleholder">{{title}}</div> </div>',
+                      left: {h_align: "left", v_align: "center", h_offset: 0, v_offset: 0},
+                      right: {h_align: "right", v_align: "center", h_offset: 0, v_offset: 0}
+                    }
+                  },
+                  visibilityLevels: [1240, 1024, 778, 480],
+                  gridwidth: 1230,
+                  gridheight: 650,
+                  lazyType: "none",
+                  parallax: {
+                    type: "mouse",
+                    origo: "enterpoint",
+                    speed: 400,
+                    speedbg: 0,
+                    speedls: 0,
+                    levels: [5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 47, 48, 49, 50, 51, 55],
+                  },
+                  shadow: 0,
+                  spinner: "spinner2",
+                  stopLoop: "off",
+                  stopAfterLoops: -1,
+                  stopAtSlide: -1,
+                  shuffle: "off",
+                  autoHeight: "off",
+                  disableProgressBar: "off",
+                  hideThumbsOnMobile: "on",
+                  hideSliderAtLimit: 0,
+                  hideCaptionAtLimit: 0,
+                  hideAllCaptionAtLilmit: 0,
+                  debugMode: false,
+                  fallbacks: {simplifyAll: "off", nextSlideOnWindowFocus: "off", disableFocusListener: false,}
+                });
+              }
+              ; /* END OF revapi call */
+            }; /* END OF ON LOAD FUNCTION */
+          }()); /* END OF WRAPPING FUNCTION */ </script>
