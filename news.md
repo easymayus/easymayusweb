@@ -1,5 +1,5 @@
 ---
-title: "易美事记 | 易美教育 | 易美高端留学 | Easymay"
+title: "易美事记 | Easymay"
 layout: default
 ---
 
