@@ -1,6 +1,6 @@
 ---
 src: assets/home/Block1/0.jpg
-href: /articles/cases_1_.html
+href: /articles/cases_6.html
 sequence: 1
 ---
 
