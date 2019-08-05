@@ -561,7 +561,7 @@ partner_array:
                 <div class="item">
                   <article class="post">
                     <div class="post-thumb position-relative"><img src="{{case.src}}" class="img-fullwidth" alt="" height = "246" > <span>易美独家</span></div>
-                    <div class="post-description border-bottom-theme-colored2-1px pb-20">
+                    <div class="post-description pb-20">
                       <h5 class="font-weight-600 text-gray-lightgray mt-20 mb-0">{{case.year}}</h5>
                       <h3 class="post-title text-theme-colored2 font-weight-600 mt-0 mb-20 font-20">
                         {{case.title}}
