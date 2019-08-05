@@ -1,0 +1,8 @@
+---
+ranking: 1-15
+school: University of Chicago
+description: US Top3
+src: /assets/offer_update/099.jpg
+major: Public Policy
+sequence: 15
+---
