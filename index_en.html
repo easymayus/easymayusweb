@@ -249,7 +249,7 @@ partner_array:
             <div class="row pl-15 pr-15">
               <div class="owl-carousel-5col memorabilia" data-duration="1000">
 
-            {% assign ar = site.articles_en | sort:"sequence" %}
+            {% assign ar = site.articles | sort:"sequence" %}
             {% for article in ar %}
             {% if article.appear_page contains 'index_short' %}
 
@@ -261,11 +261,11 @@ partner_array:
                   <h5 class="font-weight-600 text-gray-lightgray mt-20 mb-0">2019</h5>
                   <a href="{{article.url}}" target="_blank">
                   <h3 class="title text-theme-colored2 font-weight-600 mt-0 mb-15 font-14 on-hover-underlined">
-                  <!-- {% if article.use_short_title == "true" %}
+                  {% if article.use_short_title == "true" %}
                   {{article.title_short}}
-                  {% else %} -->
+                  {% else %}
                   {{article.title}}
-                  <!-- {% endif %} -->
+                  {% endif %}
 
                   </h3></a>
                   </div>
@@ -561,7 +561,7 @@ partner_array:
                     <div class="post-thumb position-relative"><img src="{{case.src}}" class="img-fullwidth" alt="" height = "246" > <span>Easymay Exclusive</span></div>
                     <div class="post-description border-bottom-theme-colored2-1px pb-20">
                       <h5 class="font-weight-600 text-gray-lightgray mt-20 mb-0">{{case.year}}</h5>
-                      <h3 class="post-title text-theme-colored2 font-weight-600 mt-0 mb-20 font-20" style="height:120px;">
+                      <h3 class="post-title text-theme-colored2 font-weight-600 mt-0 mb-20 font-20">
                         {{case.title}}
                       </h3>
                       <p class="mb-20 short-desc-text">
