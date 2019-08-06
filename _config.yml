@@ -53,6 +53,8 @@ collections:
     output: true
   recruiterintros:
     output: true
+  recruiterintrosen:
+    output: true
   cases:
     output: true
   ps:
