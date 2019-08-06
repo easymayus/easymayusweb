@@ -49,6 +49,8 @@ collections:
     output: true
   articles:
     output: true
+  articlesen:
+    output: true
   recruiterintros:
     output: true
   cases:
@@ -56,6 +58,8 @@ collections:
   ps:
     output: true
   offers:
+    output: true
+  offersen:
     output: true
   easymayWechatStory:
     output: true
