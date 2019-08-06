@@ -64,22 +64,6 @@ for i in range(len(url)):
 		year[i] = int(year[i])
 	file.write("year: " + str(year[i]) + '\n') # publish year of this article
 	file.write("---" + '\n\n')
-
-	try:
-		r = requests.get(url[i])
-		htmltxt = r.text[len("<!DOCTYPE html>"):] # 掐头		
-		htmltxt_ = htmltxt.split("item.src = \"data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==\";")
-		htmltxt = htmltxt_[0]+"\n"+ "\t\t\t\tvar url = item.getAttribute(\'data-src\');"+"\n"+"\t\t\t\titem.src = url;\n"+htmltxt_[1]
-		htmltxt_ = htmltxt.split('"qr_code_pc"')
-		htmltxt = htmltxt_[0] + '"qr_code_pc" style="display:none;"' + htmltxt_[1];
-		htmltxt_ = htmltxt.split('"weui-desktop-popover__content')
-		htmltxt = htmltxt_[0] + '"weui-desktop-popover__content" style="display:none;' + htmltxt_[1];
-		print("finished case: "+str(i)+" cases_" + title[i] + ".md")
-	except Exception as e:
-		print("FAILED case: "+str(i)+" cases_" + title[i] + ".md")
-		print(e)
-
-	file.write(htmltxt+"\n")
 	file.close()
 	
 print("conversion finished")
