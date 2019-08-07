@@ -2,4 +2,4 @@
 src: assets/home/Block6/Slide5.jpeg
 sequence: 5
 ---
- <p class="text-black text-justify">前达特茅斯大学招生办主任，拥有6年教育行业工作经验，加州大学洛杉矶分校哲学及音乐学博士，南加州大学哲学、美国史及种族学博士；曾多年负责校园宣讲会及校园招聘工作，并参与申请材料的审核和筛选工作；曾在达特茅斯大学校长办公室负责为学生提供课业指导，并组织以促进学业提升为主题的社会活动；曾担任达特茅斯大学非裔美国人社群导师项目学术主席和项目负责人；For your Glory Praise 舞蹈项目创始人；擅长领域：人文学科、哲学及音乐类学科申请</p>
+ <p class="text-black text-justify">Former Dartmouth University Admissions Director, 6 years of experience in the education industry, Ph.D. in Philosophy and Musicology at UCLA, Ph.D. in Philosophy, American History and Ethnicity at the University of Southern California; formerly at the Dartmouth University President's Office provided students with academic guidance and organize activities with the theme of promoting academic advancement; former academic director and project leader of the African American Community Mentor Program at Dartmouth University; areas of expertise: humanities, philosophy, and music subject application</p>
