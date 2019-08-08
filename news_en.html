@@ -395,7 +395,7 @@ layout: default
               <!-- Portfolio Gallery Grid -->
               <div id="grid" class="gallery-isotope default-animation-effect grid-4 gutter-30 clearfix">
 
-                {% assign sorted = site.articles | sort:"sequence" %}
+                {% assign sorted = site.articlesen | sort:"sequence" %}
                 {% for case in sorted %}
                 {% if case.appear_page contains 'news' %}
                 <div class="gallery-item {{case.type}}">
