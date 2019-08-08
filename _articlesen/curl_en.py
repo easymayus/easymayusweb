@@ -78,7 +78,8 @@ for i in range(len(url)):
 	except Exception as e:
 		print("FAILED case: "+str(i)+" cases_" + title[i] + ".md")
 		print(e)
-		
+
+	file.write(htmltxt+"\n")
 	file.close()
 	
 print("conversion finished")

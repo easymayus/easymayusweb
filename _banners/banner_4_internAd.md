@@ -1,6 +1,6 @@
 ---
 src: assets/home/Block1/internAD.jpg
-href: /articles/cases_58.html
+href: /
 sequence: 4
 ---
 
