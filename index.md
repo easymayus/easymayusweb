@@ -600,7 +600,7 @@ partner_array:
                 {% assign st = site.report %}
                 {% for re in st %}
 
-                <!-- Item Start -->
+                
                 <div class="item">
                   <article class="post">
                     <div class="post-thumb position-relative">
@@ -615,7 +615,7 @@ partner_array:
                     </div>
                   </article>
                 </div>
-                <!-- Item End -->
+                
                 {% endfor %}
               </div>
             </div>
