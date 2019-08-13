@@ -584,6 +584,47 @@ partner_array:
         </div>
       </section>
 
+      <!-- Media Report Block -->
+
+      <!-- <section class="blog">
+        <div class="container pb-sm-40">
+          <div class="row justify-content-center">
+            <div class="section-title text-center pl-15 pr-15">
+              <h2 class="title-effect text-theme-colored2 mt-0">媒体报道</h2>
+            </div>
+          </div>
+
+          <div class="section-content">
+            <div class="row pl-20 pr-20">
+              <div class="owl-carousel-3col-noAutoPlay memorabilia">
+                {% assign st = site.report %}
+                {% for re in st %}
+
+                <!-- Item Start -->
+                <div class="item">
+                  <article class="post">
+                    <div class="post-thumb position-relative">
+                      <img src="{{re.src}}" class="img-fullwidth" alt="" height = "90" width = "90">
+                    </div>
+                    <div class="post-description pb-20">
+                    <a href="{{re.url}}" target="_blank"></a>
+                      <h3 class="post-title text-theme-colored2 font-weight-600 mt-0 mb-20 font-20">
+                        {{re.title}}
+                      </h3>
+                      
+                    </div>
+                  </article>
+                </div>
+                <!-- Item End -->
+                {% endfor %}
+              </div>
+            </div>
+          </div>
+        </div>
+      </section> -->
+
+      <!-- End Media Report -->
+
       <!-- Divider: Clients -->
 
       <section class="clients">
