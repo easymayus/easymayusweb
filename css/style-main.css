@@ -106,6 +106,17 @@ This file contains the common styles of this theme.
 	text-shadow: none;
 }
 
+/**
+For Meida Report block in index
+*/
+#report_title:hover{
+	color: #FFF;
+}
+#report_title:visited{
+	color: #999999;
+}
+
+
 ::-moz-selection {
  background: #333333;
 
