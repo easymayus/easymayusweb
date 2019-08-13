@@ -100,19 +100,6 @@ This file contains the common styles of this theme.
     /*font-family: 'Microsoft YaHei';*/
     /*src: url(../fonts/my/chinese.msyh.woff);*/
 /*}*/
-
-/**
-8/13/2019 Modification for the media report section in index.md
-*/
-#report_title:hover{
-	color: #FFF;
-}
-#report_title:visited{
-	color: #999999;
-}
-
-
-
 ::selection {
 	background: #333333;
 	color: #fff;
