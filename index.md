@@ -586,7 +586,7 @@ partner_array:
 
       <!-- Media Report Block -->
 
-    <!-- 
+    
       <section id="professions_section_2" class="page-section-ptb" style="padding-top:0px; padding-bottom:100px;">
         <div class="container" style="padding-top:0px; padding-bottom:0px;">
           <div class="row justify-content-center">
@@ -598,7 +598,7 @@ partner_array:
           <div class="row" style="padding-bottom: 5px;">
             <div class="col-lg-6" style="position: relative; left: 0; top: 0; margin: 5px 0;">
               <div class="media">
-                <img src="/assets/reports/1.jpg" height="80">
+                <img class="report-img" src="/assets/reports/1.jpg" height="80">
                 <div class="feature-icon media-icon mr-4">
                   <span class="ti-user text-theme-colored2"></span>
                 </div>
@@ -611,7 +611,7 @@ partner_array:
           
               <div class="col-lg-6" style="margin: 5px 0;">
               <div class="media">
-                <img src="/assets/reports/2.jpg" height="80">
+                <img class="report-img" src="/assets/reports/2.jpg" height="80">
                 <div class="feature-icon media-icon mr-4">
                 <span class="ti-user text-theme-colored2"></span>
                 </div>
@@ -626,7 +626,7 @@ partner_array:
           <div class="row" style="padding-bottom: 5px;">
             <div class="col-lg-6" style="position: relative; left: 0; top: 0; margin: 5px 0;">
               <div class="media">
-                <img src="/assets/reports/3.jpg" height="80">
+                <img class="report-img" src="/assets/reports/3.jpg" height="80">
                 <div class="feature-icon media-icon mr-4">
                 <span class="ti-user text-theme-colored2"></span>
                 </div>
@@ -639,7 +639,7 @@ partner_array:
           
               <div class="col-lg-6" style="margin: 5px 0;">
               <div class="media">
-                <img src="/assets/reports/4.jpg" height="80">
+                <img class="report-img" src="/assets/reports/4.jpg" height="80">
                 <div class="feature-icon media-icon mr-4">
                 <span class="ti-user text-theme-colored2"></span>
                 </div>
@@ -654,7 +654,7 @@ partner_array:
           <div class="row" style="padding-bottom: 5px;">
             <div class="col-lg-6" style="position: relative; left: 0; top: 0; margin: 5px 0;">
               <div class="media">
-                <img src="/assets/reports/5.jpg" height="80">
+                <img class="report-img" src="/assets/reports/5.jpg" height="80">
                 <div class="feature-icon media-icon mr-4">
                 <span class="ti-user text-theme-colored2"></span>
                 </div>
@@ -667,7 +667,7 @@ partner_array:
           
               <div class="col-lg-6" style="margin: 5px 0;">
               <div class="media">
-                <img src="/assets/reports/6.jpg" height="80">
+                <img class="report-img" src="/assets/reports/6.jpg" height="80">
                 <div class="feature-icon media-icon mr-4">
                 <span class="ti-user text-theme-colored2"></span>
                 </div>
@@ -677,11 +677,30 @@ partner_array:
               </div>
             </div>
           </div>
+
+
+          <div class="row" style="padding-bottom: 5px;">
+            {% assign report = site.report %}
+            {% for re in report %}
+            <div class="col-lg-6" style="position: relative; left: 0; top: 0; margin: 5px 0;">
+              <div class="media">
+                <img class="report-img" src="{{re.src}}" height="80">
+                <div class="feature-icon media-icon mr-4">
+                <span class="ti-user text-theme-colored2"></span>
+                </div>
+                <div class="media-body">
+                  <a id="report_title" href="{{re.url}}" target="_blank">{{re.title}}</a>
+                </div>
+              </div>
+              
+            </div>
+            {% endfor %}
+          </div>
         
         </div>
               
       </section>
-    -->
+    
 
       <!-- End Media Report -->
 
