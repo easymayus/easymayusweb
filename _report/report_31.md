@@ -1,7 +1,7 @@
 ---
-title: 易美教育2019北美名校校园行，连续三年砥砺前行
-out_url: https://new.qq.com/rain/a/20190712A02PIK
-src: /assets/reports/31.jpg
-platform: 腾讯新闻
+title: “易美教育”获易居中国数千万级战略融资
+out_url: https://www.pintu360.com/n10482.html
+src: /assets/reports/22.jpg
+platform: 品途网
 sequence: 31
 ---

@@ -1,7 +1,7 @@
 ---
-title: 易美教育成功入驻华尔街地标建筑BBH总部大楼
-out_url: http://culture.haiwainet.cn/n/2019/0627/c3543159-31582661.html
-src: /assets/reports/30.jpg
-platform: 海外网
+title: 易美留学：唯一一家美国教育机构受邀走进哈佛、宾大、康奈尔等名校
+out_url: http://www.cnedunews.com/edu/jyxw/4221.html
+src: /assets/reports/21.jpg
+platform: 中国教育网
 sequence: 30
 ---

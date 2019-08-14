@@ -1,7 +1,7 @@
 ---
-title: 美国高端教育咨询公司易美教育获易居中国数千万元战略投资
-out_url: https://www.lieyunwang.com/archives/451225
-src: /assets/reports/9.jpg
-platform: 猎云网
+title: 易美留学数十位藤校招生官坐镇美国主场，超豪华阵容助力2019美国留学申请
+out_url: https://edu.qq.com/a/20180821/076280.htm
+src: /assets/reports/36.jpg
+platform: 腾讯
 sequence: 9
 ---

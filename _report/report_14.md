@@ -1,7 +1,7 @@
 ---
-title: 高端留学品牌易美教育获数千万元战略投资，投资方为易居中国
-out_url: http://m.aidefence.org/kjzx/2019/01/26/oiuvj1gf.html
-src: /assets/reports/14.jpg
-platform: 华美互联网
+title: 2018年易美留学再度启程校园行，遍访美国30所名校
+out_url: https://zhuanlan.zhihu.com/p/47779188
+src: /assets/reports/32.jpg
+platform: 知乎
 sequence: 14
 ---

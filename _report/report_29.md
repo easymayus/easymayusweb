@@ -1,7 +1,7 @@
 ---
-title: 易美教育入驻华尔街地标建筑BBH大楼，旨在做美国高端教育领军者
-out_url: http://dy.163.com/v2/article/detail/EI0ESS410518WVMG.html
-src: /assets/reports/29.jpg
-platform: 网易号
+title: 易美教育获数千万元战略投资本轮融资将用于扩大品牌建设
+out_url: http://www.qingjuwang.com.cn/zb/2512.html
+src: /assets/reports/20.jpg
+platform: 青橘网
 sequence: 29
 ---

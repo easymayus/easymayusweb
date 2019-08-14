@@ -1,7 +1,7 @@
 ---
-title: 易美教育获易居中国数千万元战略投资 旨在做美国高端留学行业的领先者
-out_url: http://finance.eastmoney.com/a/201901221031781536.html
-src: /assets/reports/19.jpg
-platform: 东方财富网
+title: 美国高端教育咨询公司易美教育获易居中国数千万元战略投资
+out_url: https://www.lieyunwang.com/archives/451225
+src: /assets/reports/9.jpg
+platform: 猎云网
 sequence: 19
 ---

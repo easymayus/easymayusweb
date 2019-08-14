@@ -586,7 +586,7 @@ partner_array:
 
       <!-- Media Report Block -->
 
-    
+<!--     
       <section id="professions_section_2" class="page-section-ptb" style="padding-top:0px; padding-bottom:100px;">
         <div class="container" style="padding-top:0px; padding-bottom:0px;">
           <div class="row justify-content-center">
@@ -596,7 +596,7 @@ partner_array:
           </div>
 
           <div class="row" style="padding-bottom: 5px;">
-            {% assign report = site.report %}
+            {% assign report = site.report | sort:"sequence" %}
             {% for re in report %}
             <div class="col-md-6 col-sm-12 col-xs-12" style="position: relative; left: 0; top: 0; margin: 5px 0;">
               <div class="media homepageMedia">
@@ -616,7 +616,7 @@ partner_array:
         </div>
               
       </section>
-    
+     -->
 
       <!-- End Media Report -->
 

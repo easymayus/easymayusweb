@@ -1,7 +1,7 @@
 ---
-title: 易美留学：唯一一家美国教育机构受邀走进哈佛、宾大、康奈尔等名校
-out_url: http://www.cnedunews.com/edu/jyxw/4221.html
-src: /assets/reports/21.jpg
-platform: 中国教育网
+title: 高端留学品牌易美教育获数千万元战略投资，投资方为易居中国
+out_url: http://www.cetu.net.cn/cms/2987.html
+src: /assets/reports/11.jpg
+platform: 教育培训联盟
 sequence: 21
 ---

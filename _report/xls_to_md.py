@@ -20,7 +20,7 @@ for elem in df["src"]:
 for elem in df["platform"]:
     platform.append(elem)
 
-for i in range(6,len(title)):
+for i in range(len(title)):
     write_to_file = "report_" + str(i+1) + ".md"
     file = open(write_to_file, 'w+')
     file.write("---\n")

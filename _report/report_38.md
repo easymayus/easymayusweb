@@ -1,7 +1,7 @@
 ---
-title: 易美留学独家前哥大招生官阿尔伦女士首次公开藤校申请进度规划
-out_url: https://m.tech.china.com/tech/article/20181113/kejiyuan1108214802.html
-src: /assets/reports/38.jpg
-platform: 中华网
+title: 易美留学数十位藤校招生官坐镇，顶级“智囊团”助易美学子申名校
+out_url: http://www.yidianzixun.com/article/0KKURROr
+src: /assets/reports/37.jpg
+platform: 一点网
 sequence: 38
 ---

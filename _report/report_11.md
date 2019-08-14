@@ -1,7 +1,7 @@
 ---
-title: 高端留学品牌易美教育获数千万元战略投资，投资方为易居中国
-out_url: http://www.cetu.net.cn/cms/2987.html
-src: /assets/reports/11.jpg
-platform: 教育培训联盟
+title: 易美教育成功入驻华尔街地标建筑BBH总部大楼
+out_url: http://ad.163.com/19/0627/11/EIM4U3TE000189DG.html
+src: /assets/reports/28.jpg
+platform: 网易
 sequence: 11
 ---

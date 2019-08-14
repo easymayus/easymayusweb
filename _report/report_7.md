@@ -1,7 +1,7 @@
 ---
-title: 高端留学品牌易美教育获数千万级战略融资 留学市场竞争加剧
-out_url: https://f.qianzhan.com/shangji/detail/190123-978f55dc.html
-src: /assets/reports/7.jpg
-platform: 前瞻产业研究院
+title: 易美教育入驻华尔街地标建筑BBH商务楼，旨在做美国高端教育咨询的领军者 
+out_url: http://www.sohu.com/a/322948710_793991
+src: /assets/reports/27.jpg
+platform: 搜狐
 sequence: 7
 ---

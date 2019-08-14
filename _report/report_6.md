@@ -1,7 +1,7 @@
 ---
-title: 快讯 | 提供一站式留学解决方案，易美教育获完成数千万人民币战略投资
-out_url: https://news.newseed.cn/p/1351881
-src: /assets/reports/6.jpg
-platform: 快讯
+title: 易美教育2019北美名校校园行，连续三年砥砺前行
+out_url: https://new.qq.com/rain/a/20190712A02PIK
+src: /assets/reports/31.jpg
+platform: 腾讯新闻
 sequence: 6
 ---

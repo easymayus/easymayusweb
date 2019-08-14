@@ -1,7 +1,7 @@
 ---
-title: 易美教育成功入驻华尔街地标建筑BBH总部大楼
-out_url: http://www.cet.com.cn/xwsd/2276227.shtml
-src: /assets/reports/24.jpg
-platform: 中国经济新闻网
+title: 高端留学品牌易美教育获数千万元战略投资，投资方为易居中国
+out_url: http://m.aidefence.org/kjzx/2019/01/26/oiuvj1gf.html
+src: /assets/reports/14.jpg
+platform: 华美互联网
 sequence: 24
 ---

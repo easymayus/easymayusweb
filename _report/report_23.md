@@ -1,7 +1,7 @@
 ---
-title: 高端留学品牌易美教育获数千万元战略投资，投资方为易居中国
-out_url: http://www.jingmeiti.com/archives/34401
-src: /assets/reports/23.jpg
-platform: 鲸媒体
+title: 易美教育获易居中国数千万元战略投资
+out_url: http://www.fromgeek.com/vc/220739.html
+src: /assets/reports/13.jpg
+platform: 极客网
 sequence: 23
 ---
