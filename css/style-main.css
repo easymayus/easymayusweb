@@ -9149,6 +9149,22 @@ blockquote p {
     -ms-flex-align: start;
     align-items: flex-start;
 }
+.homepageMedia.media {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+	border: 1px solid #84785a;
+	padding: 10px 15px;
+	background: #232323;
+	border-radius: 3px;
+}
+.homepageMedia.media #report_title {
+	font-size: 18px;
+	color: white;
+}
 .media .media-icon span {
     font-size: 40px;
     line-height: 45px;

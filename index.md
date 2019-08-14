@@ -596,94 +596,10 @@ partner_array:
           </div>
 
           <div class="row" style="padding-bottom: 5px;">
-            <div class="col-lg-6" style="position: relative; left: 0; top: 0; margin: 5px 0;">
-              <div class="media">
-                <img class="report-img" src="/assets/reports/1.JPG" height="80">
-                <div class="feature-icon media-icon mr-4">
-                  <span class="ti-user text-theme-colored2"></span>
-                </div>
-                <div class="media-body">
-                  <a id="report_title" href="https://36kr.com/p/5173343" target="_blank">36氪首发 | 服务在美中国留学生，高端留学品牌「易美教育」获易居中国数千万级战略融资</a>
-                </div>
-              </div>
-            </div>
-          
-          
-              <div class="col-lg-6" style="margin: 5px 0;">
-              <div class="media">
-                <img class="report-img" src="/assets/reports/2.JPG" height="80">
-                <div class="feature-icon media-icon mr-4">
-                <span class="ti-user text-theme-colored2"></span>
-                </div>
-                <div class="media-body">
-                  <a id="report_title" href="https://m.pedaily.cn/news/439865" target="_blank">首发 | 易美教育获易居中国数千万元战略投资，旨在做美国高端留学行业的领先者</a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          
-          <div class="row" style="padding-bottom: 5px;">
-            <div class="col-lg-6" style="position: relative; left: 0; top: 0; margin: 5px 0;">
-              <div class="media">
-                <img class="report-img" src="/assets/reports/3.JPG" height="80">
-                <div class="feature-icon media-icon mr-4">
-                <span class="ti-user text-theme-colored2"></span>
-                </div>
-                <div class="media-body">
-                  <a id="report_title" href="https://news.163.com/19/0123/15/E67F4A7T000189DG.html" target="_blank">美国高端留学领头羊企业-易美教育完成数百万美元战略投资</a>
-                </div>
-              </div>
-            </div>
-          
-          
-              <div class="col-lg-6" style="margin: 5px 0;">
-              <div class="media">
-                <img class="report-img" src="/assets/reports/4.JPG" height="80">
-                <div class="feature-icon media-icon mr-4">
-                <span class="ti-user text-theme-colored2"></span>
-                </div>
-                <div class="media-body">
-                  <a id="report_title" href="https://finance.sina.com.cn/money/smjj/smgq/2019-01-22/doc-ihrfqzka0013430.shtml" target="_blank">首发 | 易美教育获易居中国数千万元战略投资，旨在做美国高端留学行业的领先者</a>
-                </div>
-              </div>
-            </div>
-          </div>
-          
-
-          <div class="row" style="padding-bottom: 5px;">
-            <div class="col-lg-6" style="position: relative; left: 0; top: 0; margin: 5px 0;">
-              <div class="media">
-                <img class="report-img" src="/assets/reports/5.JPG" height="80">
-                <div class="feature-icon media-icon mr-4">
-                <span class="ti-user text-theme-colored2"></span>
-                </div>
-                <div class="media-body">
-                  <a id="report_title" href="https://finance.qq.com/a/20190124/004100.htm?stockcode=usEJ&version=1" target="_blank">美国高端留学领头羊企业-易美教育完成数百万美元战略投资</a>
-                </div>
-              </div>
-            </div>
-          
-          
-              <div class="col-lg-6" style="margin: 5px 0;">
-              <div class="media">
-                <img class="report-img" src="/assets/reports/6.JPG" height="80">
-                <div class="feature-icon media-icon mr-4">
-                <span class="ti-user text-theme-colored2"></span>
-                </div>
-                <div class="media-body">
-                  <a id="report_title" href="https://news.newseed.cn/p/1351881" target="_blank">快讯 | 提供一站式留学解决方案，易美教育获完成数千万人民币战略投资</a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-
-          <div class="row" style="padding-bottom: 5px;">
             {% assign report = site.report %}
             {% for re in report %}
-            <div class="col-lg-6" style="position: relative; left: 0; top: 0; margin: 5px 0;">
-              <div class="media">
+            <div class="col-md-6 col-sm-12 col-xs-12" style="position: relative; left: 0; top: 0; margin: 5px 0;">
+              <div class="media homepageMedia">
                 <img class="report-img" src="{{re.src}}" height="80">
                 <div class="feature-icon media-icon mr-4">
                 <span class="ti-user text-theme-colored2"></span>
