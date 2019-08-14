@@ -598,7 +598,7 @@ partner_array:
           <div class="row" style="padding-bottom: 5px;">
             <div class="col-lg-6" style="position: relative; left: 0; top: 0; margin: 5px 0;">
               <div class="media">
-                <img class="report-img" src="/assets/reports/1.jpg" height="80">
+                <img class="report-img" src="/assets/reports/1.JPG" height="80">
                 <div class="feature-icon media-icon mr-4">
                   <span class="ti-user text-theme-colored2"></span>
                 </div>
@@ -611,7 +611,7 @@ partner_array:
           
               <div class="col-lg-6" style="margin: 5px 0;">
               <div class="media">
-                <img class="report-img" src="/assets/reports/2.jpg" height="80">
+                <img class="report-img" src="/assets/reports/2.JPG" height="80">
                 <div class="feature-icon media-icon mr-4">
                 <span class="ti-user text-theme-colored2"></span>
                 </div>
@@ -626,7 +626,7 @@ partner_array:
           <div class="row" style="padding-bottom: 5px;">
             <div class="col-lg-6" style="position: relative; left: 0; top: 0; margin: 5px 0;">
               <div class="media">
-                <img class="report-img" src="/assets/reports/3.jpg" height="80">
+                <img class="report-img" src="/assets/reports/3.JPG" height="80">
                 <div class="feature-icon media-icon mr-4">
                 <span class="ti-user text-theme-colored2"></span>
                 </div>
@@ -639,7 +639,7 @@ partner_array:
           
               <div class="col-lg-6" style="margin: 5px 0;">
               <div class="media">
-                <img class="report-img" src="/assets/reports/4.jpg" height="80">
+                <img class="report-img" src="/assets/reports/4.JPG" height="80">
                 <div class="feature-icon media-icon mr-4">
                 <span class="ti-user text-theme-colored2"></span>
                 </div>
@@ -654,7 +654,7 @@ partner_array:
           <div class="row" style="padding-bottom: 5px;">
             <div class="col-lg-6" style="position: relative; left: 0; top: 0; margin: 5px 0;">
               <div class="media">
-                <img class="report-img" src="/assets/reports/5.jpg" height="80">
+                <img class="report-img" src="/assets/reports/5.JPG" height="80">
                 <div class="feature-icon media-icon mr-4">
                 <span class="ti-user text-theme-colored2"></span>
                 </div>
@@ -667,7 +667,7 @@ partner_array:
           
               <div class="col-lg-6" style="margin: 5px 0;">
               <div class="media">
-                <img class="report-img" src="/assets/reports/6.jpg" height="80">
+                <img class="report-img" src="/assets/reports/6.JPG" height="80">
                 <div class="feature-icon media-icon mr-4">
                 <span class="ti-user text-theme-colored2"></span>
                 </div>
