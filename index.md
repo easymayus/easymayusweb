@@ -689,7 +689,7 @@ partner_array:
                 <span class="ti-user text-theme-colored2"></span>
                 </div>
                 <div class="media-body">
-                  <a id="report_title" href="{{re.url}}" target="_blank">{{re.title}}</a>
+                  <a id="report_title" href="{{re.wlink}}" target="_blank">{{re.title}}</a>
                 </div>
               </div>
               
