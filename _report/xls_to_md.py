@@ -4,7 +4,7 @@ file_name = "reports.xls"
 df = pd.read_excel(io=file_name)
 
 title = []
-wlink = []
+url = []
 src = []
 platform = []
 sequence = []
@@ -12,7 +12,7 @@ sequence = []
 for elem in df["title"]:
     title.append(elem)
 for elem in df["url"]:
-    wlink.append(str(elem))
+    url.append(str(elem))
 for elem in df["src"]:
     res = str(int(elem))
     src.append("/assets/reports/"+ res +".jpg")
@@ -26,7 +26,7 @@ for i in range(6,len(title)):
     file.write("---\n")
     
     file.write("title: " + title[i] + '\n')
-    file.write("wlink: " + wlink[i] + '\n')
+    file.write("out_url: " + url[i] + '\n')
     file.write("src: "+ src[i] +'\n')
     file.write("platform: " + platform[i] + '\n')
     file.write("sequence: " + str(i+1) + '\n')
