@@ -591,7 +591,7 @@ partner_array:
         <div class="container" style="padding-top:0px; padding-bottom:0px;">
           <div class="row justify-content-center">
             <div class="section-title text-center pl-15 pr-15">
-              <h2 class="title-effect text-theme-colored2 mt-0">相关报道</h2>
+              <h2 class="title-effect text-theme-colored2 mt-0">媒体报道</h2>
             </div>
           </div>
 
