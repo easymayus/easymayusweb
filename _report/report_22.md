@@ -4,4 +4,5 @@ out_url: http://chinesenewsrank.com/article/9608490/%E5%91%A8%E8%BE%B9+%7C+%E6%9
 src: /assets/reports/12.jpg
 platform: Chinesenewsrank
 sequence: 22
+description: 本文转载自投资界前言伴随着中国留学生持续增长的赴美留学热情，美国名校的中国国际生录取率却逐年下降，与此同时中国留学生的美国就业率也持续下滑，中国留学生和家长也逐渐发现，要想准确捕捉到不同名校的录取标准和个性化元素变得难上加难。
 ---
