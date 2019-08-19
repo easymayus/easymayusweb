@@ -2,31 +2,6 @@
 layout: default
 title: 易美教育 | Easymay
 partner_array:
-   - 36k
-   - abc news
-   - 东方财务
-   - 中华网
-   - 中国日报
-   - 中国网
-   - 中金在线
-   - 人民日报
-   - 光明网
-   - 投资界
-   - 搜狐
-   - 搜狐教育
-   - 新浪财经
-   - 新芽
-   - 猎云网
-   - 环球网
-   - 网易
-   - 腾讯教育
-   - 腾讯财经
-   - 鲸媒体
-   - 值得依赖
-   - 行业创新
-   - 真诚稳健
-   - 充满活力
-   - 安全可靠
    - 威斯康辛大学麦迪逊分校中国学生学者联合会
    - 普渡大学中国学生学者联谊会
    - 宾州州立大学华人本科学生会
@@ -626,7 +601,7 @@ partner_array:
       <section class="clients">
         <div class="container pt-15 pb-40">
           <div class="row">
-           {% assign i = 1%}
+           {% assign i = 26%}
            {% for item in page.partner_array%}
 
             <div class="col-md-3 col-sm-3 col-xs-6">
