@@ -67,3 +67,5 @@ collections:
     output: true
   report:
     output: true
+  reporten:
+    output: true

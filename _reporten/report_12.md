@@ -1,0 +1,8 @@
+---
+title: Easymay Education Admissions Officer Committee Consists of Dozens of Former Ivy League admissions officers, Helping School Application in 2019
+out_url: http://www.sohu.com/a/271402575_697901
+src: /assets/reports/39.jpg
+platform: 搜狐：江西经济网
+sequence: 12
+description: 摘要：如今，伴随着中国留学生持续增长的赴美留学热情，美国名校的国际生录取率却逐年下降。留学咨询机构较低的市场准入门槛使留学咨询行业乱象频发。个别机构利用监管的缺失与信息的不对称，欺瞒客户，弄虚作假，造成学生和家长时间与金钱的双重损失。
+---

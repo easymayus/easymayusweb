@@ -1,0 +1,8 @@
+---
+title: Easymay news | Visiting colleges and universities in the United States, in March, Easymay Education went on the campus tour again
+out_url: https://www.xuehua.us/2019/04/09/%E6%98%93%E7%BE%8E%E5%A4%A7%E4%BA%8B%E8%AE%B0-%E6%B7%B1%E5%85%A5%E7%BE%8E%E5%9B%BD%E4%B8%AD%E9%83%A8%E9%AB%98%E6%A0%A1%EF%BC%8C3%E6%9C%88%E6%98%93%E7%BE%8E%E5%86%8D%E5%BA%A6%E5%BC%80%E5%90%AF/
+src: /assets/reports/35.jpg
+platform: 雪花新闻
+sequence: 37
+description: 燎原北美名校校园行分别在2017年与2018年连续成功举办，行程覆盖北美近40多所高校，包括哈佛大学、宾夕法尼亚大学、康奈尔大学、加州伯克利分校、纽约大学、波士顿大学等美国顶级名校，横跨美国中部、西部与东部的各主要城市，吸引超过百家企业关注，参与活动人数超过万人，已成为每年北美企业与高校学生交流的品牌项目。
+---
