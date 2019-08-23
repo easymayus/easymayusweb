@@ -9165,6 +9165,9 @@ blockquote p {
 	height: 146px;
 	overflow: hidden;
 }
+.homepagepoints {
+	height: 400px;
+}
 .media .media-icon span {
     font-size: 40px;
     line-height: 45px;
