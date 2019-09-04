@@ -8669,7 +8669,8 @@ blockquote p {
 	max-width: 400px;
 }
 .project-gallery .project-thumb {
-	overflow: scroll;
+	overflow-x: hidden;
+	overflow-y: scroll;
 	position: relative;
 }
 .project-gallery .project-thumb::before {
@@ -11362,3 +11363,24 @@ Media Report Img
 .report-img:hover {
 	transform: scale(1.3);
 }
+
+/* width */
+::-webkit-scrollbar {
+	width: 5px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+	background: #f1f1f1; 
+	display: none;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+	display: none;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+	background: #555; 
+  }
