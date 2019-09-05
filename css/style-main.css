@@ -9218,7 +9218,7 @@ section:hover .title-effect::before, section:focus .title-effect::before {
 	color: #e4ce97;
 	font-weight: 600;
 	font-size: 13px;
-	height: 40px;
+	height: 80px;
 }
 .pnews-content .desc {
 	height: 75px;
