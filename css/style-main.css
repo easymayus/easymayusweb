@@ -8706,6 +8706,7 @@ blockquote p {
 	padding: 18px 25px;
 	top: 0;
 	visibility: visible;
+	background: linear-gradient(90deg, rgba(230,195,124,1) 0%, rgba(228,206,151,1) 50%, rgba(230,195,124,1) 100%);
 }
 .show-icon {
 	bottom: -40px;
@@ -9178,7 +9179,7 @@ blockquote p {
     position: absolute;
     z-index: -1;
     width: 100%;
-    height: 50%;
+    height: 100%;
     left: 0;
     bottom: 0;
     opacity: 0.2;
@@ -10955,7 +10956,7 @@ footer.footer_border_columns .qode_column > .column_inner {
 	padding: 18px 0;
 }
 .menuzord.small-padding .menuzord-menu ul.dropdown {
-	top: 71px;
+	/*top: 71px;*/
 }
 /*
 
@@ -11056,7 +11057,7 @@ footer.footer_border_columns .qode_column > .column_inner {
 	overflow: hidden;
 	position: absolute;
 	right: 0;
-	top: 71px;
+	/*top: 71px;*/
 	width: 330px;
 	z-index: 9999;
 }
