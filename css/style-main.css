@@ -8701,7 +8701,6 @@ blockquote p {
 	width: 100%;
 }
 .project-gallery:hover .project-caption {
-	height: 100%;
 	opacity: 1;
 	padding: 18px 25px;
 	top: 0;
