@@ -128,7 +128,7 @@ partner_array:
                           </div>
                           <div class="modal-body">
                             <video class="video-html5" width="320" height="240" controls>
-                              <source src="assets/home/Block2/1.m4v" type="video/mp4">
+                              <source src="assets/home/Block2/1.mp4" type="video/mp4">
                               Your browser does not support the HTML video.
                             </video>
                           </div>
