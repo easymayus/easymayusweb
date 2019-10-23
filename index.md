@@ -114,7 +114,7 @@ partner_array:
                 <!-- large video box -->
                 <div class="box-hover-effect about-video mt-sm-30">
                   <div class="effect-wrapper">
-                    <div class="thumb active-video"><img class="img-fullwidth" src="assets/home/Block2/A1.jpeg" alt="project"></div>
+                    <div class="thumb active-video"><img class="img-fullwidth" src="assets/home/Block2/AA.jpeg" alt="project"></div>
 
 
                     <!-- Modal -->
