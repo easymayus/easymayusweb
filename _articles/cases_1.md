@@ -2275,7 +2275,7 @@ year: 2019
                                                 class="origin_image zh-lightbox-thumb" width="579"
                                                 data-original="/assets/announce/v2-ef74d44605b66575e3a9c26103c63590_hd.jpg" /></noscript><img src="/assets/announce/v2-ef74d44605b66575e3a9c26103c63590_hd.jpg" data-size="normal" data-rawwidth="579" data-rawheight="610"
                                 class="origin_image zh-lightbox-thumb lazy" width="579" data-original="/assets/announce/v2-ef74d44605b66575e3a9c26103c63590_hd.jpg" data-actualsrc="/assets/announce/v2-ef74d44605b66575e3a9c26103c63590_hd.jpg"
-                                data-lazy-status="ok">
+                                data-lazy-status="ok" style="align: center;">
                             <figcaption>
                                 左图为事发一分钟后普渡新生群的聊天记录（该显示时间为美国芝加哥时间）；右图为事发一分钟后普渡新生群的聊天记录，（该显示时间为美国普渡大学当地时间，与芝加哥有一小时时差）
                             </figcaption>
