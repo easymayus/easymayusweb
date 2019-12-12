@@ -2269,20 +2269,20 @@ year: 2019
                                 data-lazy-status="ok">
                               <figcaption style="text-align: center;">被黑事件起因</figcaption>
                             </figure>
-                        <figure data-size="normal"><noscript><img
+                        <figure data-size="normal" style="text-align: center;"><noscript><img
                                                 src="/assets/announce/v2-ef74d44605b66575e3a9c26103c63590_hd.jpg"
                                                 data-size="normal" data-rawwidth="579" data-rawheight="610"
                                                 class="origin_image zh-lightbox-thumb" width="579"
                                                 data-original="/assets/announce/v2-ef74d44605b66575e3a9c26103c63590_hd.jpg" /></noscript><img src="/assets/announce/v2-ef74d44605b66575e3a9c26103c63590_hd.jpg" data-size="normal" data-rawwidth="579" data-rawheight="610"
                                 class="origin_image zh-lightbox-thumb lazy" width="579" data-original="/assets/announce/v2-ef74d44605b66575e3a9c26103c63590_hd.jpg" data-actualsrc="/assets/announce/v2-ef74d44605b66575e3a9c26103c63590_hd.jpg"
-                                data-lazy-status="ok" style="align: center;">
+                                data-lazy-status="ok">
                             <figcaption>
                                 左图为事发一分钟后普渡新生群的聊天记录（该显示时间为美国芝加哥时间）；右图为事发一分钟后普渡新生群的聊天记录，（该显示时间为美国普渡大学当地时间，与芝加哥有一小时时差）
                             </figcaption>
                         </figure>
                         <p><b>发送这两条消息时，Asheley
                                             Chen的头像与被同行业竞争对手在各平台恶意转载的对易美的造谣文章中的微信记录头像一致，发完立即更换了头像。</b><br></p>
-                        <figure data-size="normal"><noscript><img
+                        <figure data-size="normal" style="text-align: center;"><noscript><img
                                                 src="/assets/announce/v2-636ff8e9f464059e916c190f79f57e18_hd.jpg"
                                                 data-size="normal" data-rawwidth="596" data-rawheight="1244"
                                                 class="origin_image zh-lightbox-thumb" width="596"
@@ -2296,7 +2296,7 @@ year: 2019
                                             Chen在2019年5月23日申请入群时提供给普渡学生会成员一张普渡大学2019的录取信截图</b>，<b>录取信上显示被录取人名为Wenxin
                                             Chen</b>。<br>
                         </p>
-                        <figure data-size="normal"><noscript><img
+                        <figure data-size="normal" style="text-align: center;"><noscript><img
                                                 src="/assets/announce/v2-6005de8fbed8021511935f28dc7fc8e6_hd.jpg"
                                                 data-size="normal" data-rawwidth="649" data-rawheight="754"
                                                 class="origin_image zh-lightbox-thumb" width="649"
@@ -2305,7 +2305,7 @@ year: 2019
                                 data-lazy-status="ok">
                             <figcaption>上面两张图是这位Asheley Chen与普渡大学学生会负责拉新生入群的同学对话记录。</figcaption>
                         </figure>
-                        <figure data-size="normal"><noscript><img
+                        <figure data-size="normal" style="text-align: center;"><noscript><img
                                                 src="/assets/announce/v2-f284435179bfdb0a1a0057721685bb8c_hd.jpg"
                                                 data-size="normal" data-rawwidth="594" data-rawheight="883"
                                                 class="origin_image zh-lightbox-thumb" width="594"
@@ -2318,7 +2318,7 @@ year: 2019
                         <p>美国纽约时间2019年6月18日，易美教育律师团纽约锐泽律师事务所正式以律师名义邮件联系了普渡大学研究生院招生办公室，就 Asheley Chen (Wenxin Chen)的学生身份进行了问询。美国纽约时间2019年6月19日，
                             <b>普渡大学的副法务总监Trenten D.
                                             Klingerman先生给易美教育的律师回了信</b>（回信见下）。<br></p>
-                        <figure data-size="normal"><noscript><img
+                        <figure data-size="normal" style="text-align: center;"><noscript><img
                                                 src="/assets/announce/v2-51cb018581163fa7f3e6367844522f17_hd.jpg"
                                                 data-caption="" data-size="normal" data-rawwidth="605"
                                                 data-rawheight="528" class="origin_image zh-lightbox-thumb" width="605"
@@ -2330,14 +2330,14 @@ year: 2019
                                             (Wenxin Chen)提供给普渡大学的中国学生学者联谊会组织的录取信中签名的研究生院院长M.J.T.
                                             Smith早在2017年8月就从普渡离职到德克萨斯大学赴任。</b><br><b>可见, Asheley Chen (Wenxin
                                             Chen)提供给普渡大学中国学生学者联谊会的录取信系伪造无疑。</b><br></p>
-                        <figure data-size="normal"><noscript><img
+                        <figure data-size="normal" style="text-align: center;"><noscript><img
                                                 src="/assets/announce/v2-2ebb6829f8a29263604204d67b674931_hd.jpg"
                                                 data-caption="" data-size="normal" data-rawwidth="640"
                                                 data-rawheight="911" class="origin_image zh-lightbox-thumb" width="640"
                                                 data-original="/assets/announce/v2-2ebb6829f8a29263604204d67b674931_hd.jpg" /></noscript><img src="/assets/announce/v2-2ebb6829f8a29263604204d67b674931_hd.jpg" data-caption="" data-size="normal" data-rawwidth="640"
                                 data-rawheight="911" class="origin_image zh-lightbox-thumb lazy" width="640" data-original="/assets/announce/v2-2ebb6829f8a29263604204d67b674931_hd.jpg" data-actualsrc="/assets/announce/v2-2ebb6829f8a29263604204d67b674931_hd.jpg"
                                 data-lazy-status="ok"></figure>
-                        <figure data-size="normal"><noscript><img
+                        <figure data-size="normal" style="text-align: center;"><noscript><img
                                                 src="/assets/announce/v2-73972aa9ea4cc154403621f50d702fe2_hd.jpg"
                                                 data-caption="" data-size="normal" data-rawwidth="895"
                                                 data-rawheight="1265" class="origin_image zh-lightbox-thumb" width="895"
@@ -2361,7 +2361,7 @@ year: 2019
                                 <span
                                     class="ellipsis"></span>
                                     </a><b>）：</b><br></p>
-                        <figure data-size="normal"><noscript><img
+                        <figure data-size="normal" style="text-align: center;"><noscript><img
                                                 src="/assets/announce/v2-488896ef9809a6493eff2559ffe58a8e_hd.jpg"
                                                 data-size="normal" data-rawwidth="1271" data-rawheight="818"
                                                 class="origin_image zh-lightbox-thumb" width="1271"
@@ -2373,7 +2373,7 @@ year: 2019
                         <p>
                             然而幕后黑手从2019年6月至今，仍然在各大平台运用公关手段循环恶意转载，尽管知乎平台的侵权机制完善，肇事者依然每日用全新的账号发表诽谤文章，给公司和创始人的名誉带来严重的侵害，手段卑劣至极，让人不寒而栗。详情参照下图：<br>
                         </p>
-                        <figure data-size="normal"><noscript><img
+                        <figure data-size="normal" style="text-align: center;"><noscript><img
                                                 src="/assets/announce/v2-dacce969d81facef218a2ae60fca5d64_hd.jpg"
                                                 data-size="normal" data-rawwidth="625" data-rawheight="1214"
                                                 class="origin_image zh-lightbox-thumb" width="625"
@@ -2383,7 +2383,7 @@ year: 2019
                             <figcaption>肇事者在不断被知乎封号并且折叠诽谤文章的情况下，依然每日用购买的或注册的全新知乎号循环发表诽谤文章，所用手段卑劣至极。
                             </figcaption>
                         </figure>
-                        <figure data-size="normal"><noscript><img
+                        <figure data-size="normal" style="text-align: center;"><noscript><img
                                                 src="/assets/announce/v2-2c20a5c17bf17b690183b58d173d325a_hd.jpg"
                                                 data-size="normal" data-rawwidth="813" data-rawheight="1000"
                                                 class="origin_image zh-lightbox-thumb" width="813"
@@ -2397,7 +2397,7 @@ year: 2019
                         <p>
                             <b>二、诉诸法律途径，坚决与不法分子抗争</b><br>被大量网络用户和自媒体转载的文字和图片中，散播谣言者盗用创始人的微信信息并利用部分网络公开信息进行人为恶意捏造，形成虚假陈述、虚假谣言，<b>对于知悉真实情况的相关美国学生组织和个人也对此事件进行了全面核实和辟谣。</b>易美教育在此严正声明，我们坚决依靠法律手段维护公司的合法权益！易美已将所有诽谤和散播谣言证据在中美两地完成法律证据保全，并将部分相关人员告上法庭，以示公司将与不法分子和恶势力斗争的决心。<br>
                         </p>
-                        <figure data-size="normal"><noscript><img
+                        <figure data-size="normal" style="text-align: center;"><noscript><img
                                                 src="/assets/announce/v2-8bb976fc98e3ed66d8fd7a265f147de5_hd.jpg"
                                                 data-size="normal" data-rawwidth="1794" data-rawheight="753"
                                                 class="origin_image zh-lightbox-thumb" width="1794"
@@ -2421,7 +2421,7 @@ year: 2019
                                                 data-original="/assets/announce/v2-cbb47f53a44722fcf956160d613598d4_hd.jpg" /></noscript><img src="/assets/announce/v2-cbb47f53a44722fcf956160d613598d4_hd.jpg" data-caption="" data-size="normal" data-rawwidth="642"
                                 data-rawheight="685" class="origin_image zh-lightbox-thumb lazy" width="642" data-original="/assets/announce/v2-cbb47f53a44722fcf956160d613598d4_hd.jpg" data-actualsrc="/assets/announce/v2-cbb47f53a44722fcf956160d613598d4_hd.jpg"
                                 data-lazy-status="ok"></figure>
-                        <figure data-size="normal"><noscript><img
+                        <figure data-size="normal" style="text-align: center;"><noscript><img
                                                 src="/assets/announce/v2-236411d8764f1abaf6868804752e0026_hd.jpg"
                                                 data-size="normal" data-rawwidth="648" data-rawheight="676"
                                                 class="origin_image zh-lightbox-thumb" width="648"
@@ -2433,7 +2433,7 @@ year: 2019
                         <p>
                             感谢普渡学生会对易美一如既往的支持，在此危急时刻全力提供重要证据，与易美并肩作战，在你们身上，易美看到了我们留学生的正义感和团结的力量！为我们普渡学生会点赞！<br>身为留学界的打假一哥，势与作假势力不两立的易美创始人，现竟被恶人先告状，殊不知易美自创立至今一直不忘初心，坚守自己的职业操守绝不越界。<br>
                         </p>
-                        <figure data-size="normal"><noscript><img
+                        <figure data-size="normal" style="text-align: center;"><noscript><img
                                                 src="/assets/announce/v2-49b8c2c518b7883310194ac3a2e685c6_hd.jpg"
                                                 data-size="normal" data-rawwidth="397" data-rawheight="481"
                                                 class="content_image" width="397" /></noscript><img src="/assets/announce/v2-49b8c2c518b7883310194ac3a2e685c6_hd.jpg" data-size="normal" data-rawwidth="397" data-rawheight="481" class="content_image lazy"
@@ -2447,7 +2447,7 @@ year: 2019
                                 width="352" data-actualsrc="/assets/announce/v2-338fd3487ff0a54180e68cd377468877_hd.jpg" data-lazy-status="ok">
                             <figcaption>左图为易美教育创始人微信截图；右图为易美教育客服微信截图</figcaption>
                         </figure>
-                        <figure data-size="normal"><noscript><img
+                        <figure data-size="normal" style="text-align: center;"><noscript><img
                                                 src="/assets/announce/v2-411ff3157ca996076ceba281f99b0b3d_hd.jpg"
                                                 data-size="normal" data-rawwidth="352" data-rawheight="356"
                                                 class="content_image" width="352" /></noscript><img src="/assets/announce/v2-411ff3157ca996076ceba281f99b0b3d_hd.jpg" data-size="normal" data-rawwidth="352" data-rawheight="356" class="content_image lazy"
@@ -2461,7 +2461,7 @@ year: 2019
                             <li><b>感谢多年合作的学联朋友</b><br>事情最先开始于学联微信群，学联在第一时间对事情性质判断的果决与慧眼如炬，令易美心生敬佩！</li>
                         </ul>
                         <p>主动帮易美辟谣、调查、收集证据</p>
-                        <figure data-size="normal"><noscript><img
+                        <figure data-size="normal" style="text-align: center;"><noscript><img
                                                 src="/assets/announce/v2-d45fc5595f9615a172e74913423e090a_hd.jpg"
                                                 data-caption="" data-size="normal" data-rawwidth="653"
                                                 data-rawheight="658" class="origin_image zh-lightbox-thumb" width="653"
@@ -2469,14 +2469,14 @@ year: 2019
                                 data-rawheight="658" class="origin_image zh-lightbox-thumb lazy" width="653" data-original="/assets/announce/v2-d45fc5595f9615a172e74913423e090a_hd.jpg" data-actualsrc="/assets/announce/v2-d45fc5595f9615a172e74913423e090a_hd.jpg"
                                 data-lazy-status="ok"></figure>
                         <p>对造谣传谣者绝不手下留情：</p>
-                        <figure data-size="normal"><noscript><img
+                        <figure data-size="normal" style="text-align: center;"><noscript><img
                                                 src="/assets/announce/v2-433da89ebb3bcca33fe51955c2002b5f_hd.jpg"
                                                 data-caption="" data-size="normal" data-rawwidth="644"
                                                 data-rawheight="671" class="origin_image zh-lightbox-thumb" width="644"
                                                 data-original="/assets/announce/v2-433da89ebb3bcca33fe51955c2002b5f_hd.jpg" /></noscript><img src="/assets/announce/v2-433da89ebb3bcca33fe51955c2002b5f_hd.jpg" data-caption="" data-size="normal" data-rawwidth="644"
                                 data-rawheight="671" class="origin_image zh-lightbox-thumb lazy" width="644" data-original="/assets/announce/v2-433da89ebb3bcca33fe51955c2002b5f_hd.jpg" data-actualsrc="/assets/announce/v2-433da89ebb3bcca33fe51955c2002b5f_hd.jpg"
                                 data-lazy-status="ok"></figure>
-                        <figure data-size="normal"><noscript><img
+                        <figure data-size="normal" style="text-align: center;"><noscript><img
                                                 src="/assets/announce/v2-78d8b8497552d798ba7ec41928b4b01f_hd.jpg"
                                                 data-caption="" data-size="normal" data-rawwidth="639"
                                                 data-rawheight="674" class="origin_image zh-lightbox-thumb" width="639"
@@ -2484,14 +2484,14 @@ year: 2019
                                 data-rawheight="674" class="origin_image zh-lightbox-thumb lazy" width="639" data-original="/assets/announce/v2-78d8b8497552d798ba7ec41928b4b01f_hd.jpg" data-actualsrc="/assets/announce/v2-78d8b8497552d798ba7ec41928b4b01f_hd.jpg"
                                 data-lazy-status="ok"></figure>
                         <p>不为谣言所动，对易美坚信不疑</p>
-                        <figure data-size="normal"><noscript><img
+                        <figure data-size="normal" style="text-align: center;"><noscript><img
                                                 src="/assets/announce/v2-6620ada5aec3107974247bb2d8003ca1_hd.jpg"
                                                 data-caption="" data-size="normal" data-rawwidth="631"
                                                 data-rawheight="611" class="origin_image zh-lightbox-thumb" width="631"
                                                 data-original="/assets/announce/v2-6620ada5aec3107974247bb2d8003ca1_hd.jpg" /></noscript><img src="/assets/announce/v2-6620ada5aec3107974247bb2d8003ca1_hd.jpg" data-caption="" data-size="normal" data-rawwidth="631"
                                 data-rawheight="611" class="origin_image zh-lightbox-thumb lazy" width="631" data-original="/assets/announce/v2-6620ada5aec3107974247bb2d8003ca1_hd.jpg" data-actualsrc="/assets/announce/v2-6620ada5aec3107974247bb2d8003ca1_hd.jpg"
                                 data-lazy-status="ok"></figure>
-                        <figure data-size="normal"><noscript><img
+                        <figure data-size="normal" style="text-align: center;"><noscript><img
                                                 src="/assets/announce/v2-5a9bfa901d07fd4b1cedad7b72b2372b_hd.jpg"
                                                 data-caption="" data-size="normal" data-rawwidth="642"
                                                 data-rawheight="557" class="origin_image zh-lightbox-thumb" width="642"
@@ -2499,7 +2499,7 @@ year: 2019
                                 data-rawheight="557" class="origin_image zh-lightbox-thumb lazy" width="642" data-original="/assets/announce/v2-5a9bfa901d07fd4b1cedad7b72b2372b_hd.jpg" data-actualsrc="/assets/announce/v2-5a9bfa901d07fd4b1cedad7b72b2372b_hd.jpg"
                                 data-lazy-status="ok"></figure>
                         <p>学联主席群中对易美交口称赞</p>
-                        <figure data-size="normal"><noscript><img
+                        <figure data-size="normal" style="text-align: center;"><noscript><img
                                                 src="/assets/announce/v2-4396b99651434a54b253a1dd75006a2d_hd.jpg"
                                                 data-caption="" data-size="normal" data-rawwidth="645"
                                                 data-rawheight="666" class="origin_image zh-lightbox-thumb" width="645"
@@ -2507,7 +2507,7 @@ year: 2019
                                 data-rawheight="666" class="origin_image zh-lightbox-thumb lazy" width="645" data-original="/assets/announce/v2-4396b99651434a54b253a1dd75006a2d_hd.jpg" data-actualsrc="/assets/announce/v2-4396b99651434a54b253a1dd75006a2d_hd.jpg"
                                 data-lazy-status="ok"></figure>
                         <p>积极转发易美声明以防学生被谣言蒙蔽</p>
-                        <figure data-size="normal"><noscript><img
+                        <figure data-size="normal" style="text-align: center;"><noscript><img
                                                 src="/assets/announce/v2-64590e336e0113ab68e5a7c2f6d9eeb2_hd.jpg"
                                                 data-caption="" data-size="normal" data-rawwidth="1206"
                                                 data-rawheight="1064" class="origin_image zh-lightbox-thumb"
@@ -2515,7 +2515,7 @@ year: 2019
                                                 data-original="/assets/announce/v2-64590e336e0113ab68e5a7c2f6d9eeb2_hd.jpg" /></noscript><img src="/assets/announce/v2-64590e336e0113ab68e5a7c2f6d9eeb2_hd.jpg" data-caption="" data-size="normal" data-rawwidth="1206"
                                 data-rawheight="1064" class="origin_image zh-lightbox-thumb lazy" width="1206" data-original="/assets/announce/v2-64590e336e0113ab68e5a7c2f6d9eeb2_hd.jpg" data-actualsrc="/assets/announce/v2-64590e336e0113ab68e5a7c2f6d9eeb2_hd.jpg"
                                 data-lazy-status="ok"></figure>
-                        <figure data-size="normal"><noscript><img
+                        <figure data-size="normal" style="text-align: center;"><noscript><img
                                                 src="/assets/announce/v2-0e59655b5923a74d2cefb7b80b4ad41e_hd.jpg"
                                                 data-caption="" data-size="normal" data-rawwidth="1224"
                                                 data-rawheight="1332" class="origin_image zh-lightbox-thumb"
@@ -2528,7 +2528,7 @@ year: 2019
                                 <b>感谢北美创投圈的知名人士</b><br><b>北美创投圈的领军人物纷纷为易美发声</b>，<br>转发声明并表示<b>支持易美！</b><br><b>支持易美创始人！</b><br>在这个自顾不暇的年代，<br>依然怀揣着一颗<b>赤诚之心，正义之心！</b><br>
                             </li>
                         </ul>
-                        <figure data-size="normal"><noscript><img
+                        <figure data-size="normal" style="text-align: center;"><noscript><img
                                                 src="/assets/announce/v2-7867029fdd1bed3de2c87061c8e5b3cc_hd.jpg"
                                                 data-size="normal" data-rawwidth="1278" data-rawheight="978"
                                                 class="origin_image zh-lightbox-thumb" width="1278"
@@ -2542,7 +2542,7 @@ year: 2019
                                 <b>感谢易美的老员工不忘初心</b><br>在得知易美被诽谤诋毁后，易美的老员工虽已离职回国，却仍心系易美，为易美打气，在别人问及时，耐心解释，重复着当年创业坚决不造假的誓言。<br>
                             </li>
                         </ul>
-                        <figure data-size="normal"><noscript><img
+                        <figure data-size="normal" style="text-align: center;"><noscript><img
                                                 src="/assets/announce/v2-71af3cc76430d196791114ffcd3ec01b_hd.jpg"
                                                 data-caption="" data-size="normal" data-rawwidth="1176"
                                                 data-rawheight="669" class="origin_image zh-lightbox-thumb" width="1176"
@@ -2550,7 +2550,7 @@ year: 2019
                                 data-rawheight="669" class="origin_image zh-lightbox-thumb lazy" width="1176" data-original="/assets/announce/v2-71af3cc76430d196791114ffcd3ec01b_hd.jpg" data-actualsrc="/assets/announce/v2-71af3cc76430d196791114ffcd3ec01b_hd.jpg"
                                 data-lazy-status="ok"></figure>
                         <p class="ztext-empty-paragraph"><br></p>
-                        <figure data-size="normal"><noscript><img
+                        <figure data-size="normal" style="text-align: center;"><noscript><img
                                                 src="/assets/announce/v2-30fda7a5da981ff89f135340210e93ab_hd.jpg"
                                                 data-size="normal" data-rawwidth="503" data-rawheight="3549"
                                                 class="origin_image zh-lightbox-thumb" width="503"
@@ -2564,14 +2564,14 @@ year: 2019
                                 <b>感谢签约客户对我们服务的肯定</b><br>如此谣言一出，按理来讲，最容易出现恐慌的是易美的学员及家长，担心自己的申请会因此受到影响。但易美的学员和家长却<b>对易美充满信心！</b>无一提出质疑，都<b>坚定不移地继续选择易美</b>，这也是我们<b>易美服务品质的证明！</b>
                             </li>
                         </ul>
-                        <figure data-size="normal"><noscript><img
+                        <figure data-size="normal" style="text-align: center;"><noscript><img
                                                 src="/assets/announce/v2-91d75cd25dbace37c58bdce62702d5ed_hd.jpg"
                                                 data-caption="" data-size="normal" data-rawwidth="637"
                                                 data-rawheight="632" class="origin_image zh-lightbox-thumb" width="637"
                                                 data-original="/assets/announce/v2-91d75cd25dbace37c58bdce62702d5ed_hd.jpg" /></noscript><img src="/assets/announce/v2-91d75cd25dbace37c58bdce62702d5ed_hd.jpg" data-caption="" data-size="normal" data-rawwidth="637"
                                 data-rawheight="632" class="origin_image zh-lightbox-thumb lazy" width="637" data-original="/assets/announce/v2-91d75cd25dbace37c58bdce62702d5ed_hd.jpg" data-actualsrc="/assets/announce/v2-91d75cd25dbace37c58bdce62702d5ed_hd.jpg"
                                 data-lazy-status="ok"></figure>
-                        <figure data-size="normal"><noscript><img
+                        <figure data-size="normal" style="text-align: center;"><noscript><img
                                                 src="/assets/announce/v2-6ae64ee1b099de6a7f699fd69f54ff1b_hd.jpg"
                                                 data-caption="" data-size="normal" data-rawwidth="638"
                                                 data-rawheight="707" class="origin_image zh-lightbox-thumb" width="638"
@@ -2582,7 +2582,7 @@ year: 2019
                             <li><b>感谢选择不轻易相信的热心同学</b><br>在群里有人散播谣言之时，热心同学积极向学联求证，得到回复后，主动将聊天截图发回到被传谣的微信群中，以正视听。<br>
                             </li>
                         </ul>
-                        <figure data-size="normal"><noscript><img
+                        <figure data-size="normal" style="text-align: center;"><noscript><img
                                                 src="/assets/announce/v2-3ec7e99e231bde3ceac42da1ab649ce3_hd.jpg"
                                                 data-caption="" data-size="normal" data-rawwidth="584"
                                                 data-rawheight="860" class="origin_image zh-lightbox-thumb" width="584"
@@ -2593,7 +2593,7 @@ year: 2019
                             <li><b>感谢心存正义感的你</b><br>感谢冷静思考理智判断，仗义执言的你们，<b>你们是这个世界最闪亮的星！</b></li>
                         </ul>
                         <p>诽谤文下评论区的质疑声</p>
-                        <figure data-size="normal"><noscript><img
+                        <figure data-size="normal" style="text-align: center;"><noscript><img
                                                 src="/assets/announce/v2-8be3ed6f4975758b6b0985bf0d90c4bb_hd.jpg"
                                                 data-size="normal" data-rawwidth="581" data-rawheight="292"
                                                 class="origin_image zh-lightbox-thumb" width="581"
@@ -2603,7 +2603,7 @@ year: 2019
                             <figcaption>由于作者控评， 有利于易美的回复多被雪藏， 但从放出的评论中依然不乏质疑之声</figcaption>
                         </figure>
                         <p>易美声明发布后下方评论区的留言</p>
-                        <figure data-size="normal"><noscript><img
+                        <figure data-size="normal" style="text-align: center;"><noscript><img
                                                 src="/assets/announce/v2-ddb5add3b3c9ab6e8d2d4a97dffdf498_hd.jpg"
                                                 data-caption="" data-size="normal" data-rawwidth="646"
                                                 data-rawheight="671" class="origin_image zh-lightbox-thumb" width="646"
@@ -2613,7 +2613,7 @@ year: 2019
                         <p>“ 立足北美， 放眼世界， 专注国际化精英教育， 成为最具公信力的国际教育企业” 是易美教育多年在美国脚踏实地、负重前行的目标和理想， 我们希望通过夜以继日的努力和优秀的成果， 来回馈客户的信赖与支持！ 正义可能会迟到， 但是永远不会缺席， 请大家拭目以待！<br>通往胜利的路上， 易美与您同在！</p>
                         <hr>
                         <p><b>四、易美官方声明与知名律师事务所的官方律师声明</b><br></p>
-                        <figure data-size="normal"><noscript><img
+                        <figure data-size="normal" style="text-align: center;"><noscript><img
                                                 src="/assets/announce/v2-dcc2ed93616f23d5015ccd52fd479328_hd.jpg"
                                                 data-size="normal" data-rawwidth="719" data-rawheight="908"
                                                 class="origin_image zh-lightbox-thumb" width="719"
@@ -2623,7 +2623,7 @@ year: 2019
                             <figcaption>国内排名第一的国浩律师事务所针对此次事件的官方声明</figcaption>
                         </figure>
                         <p class="ztext-empty-paragraph"><br></p>
-                        <figure data-size="normal"><noscript><img
+                        <figure data-size="normal" style="text-align: center;"><noscript><img
                                                 src="/assets/announce/v2-76806647824b5c8d2e5fd65b6afccb73_hd.jpg"
                                                 data-size="normal" data-rawwidth="1134" data-rawheight="1189"
                                                 class="origin_image zh-lightbox-thumb" width="1134"
