@@ -2440,7 +2440,7 @@ year: 2019
                                 width="397" data-actualsrc="/assets/announce/v2-49b8c2c518b7883310194ac3a2e685c6_hd.jpg" data-lazy-status="ok">
                             <figcaption>易美多年始终呼吁并劝说广大留学生不要进行篡改申请资料，左图为易美教育创始人微信截图；右图为易美教育客服微信截图</figcaption>
                         </figure>
-                        <figure data-size="normal"><noscript><img
+                        <figure data-size="normal" style="text-align: center;"><noscript><img
                                                 src="/assets/announce/v2-338fd3487ff0a54180e68cd377468877_hd.jpg"
                                                 data-size="normal" data-rawwidth="352" data-rawheight="376"
                                                 class="content_image" width="352" /></noscript><img src="/assets/announce/v2-338fd3487ff0a54180e68cd377468877_hd.jpg" data-size="normal" data-rawwidth="352" data-rawheight="376" class="content_image lazy"
@@ -2523,7 +2523,7 @@ year: 2019
                                                 data-original="/assets/announce/v2-0e59655b5923a74d2cefb7b80b4ad41e_hd.jpg" /></noscript><img src="/assets/announce/v2-0e59655b5923a74d2cefb7b80b4ad41e_hd.jpg" data-caption="" data-size="normal" data-rawwidth="1224"
                                 data-rawheight="1332" class="origin_image zh-lightbox-thumb lazy" width="1224" data-original="/assets/announce/v2-0e59655b5923a74d2cefb7b80b4ad41e_hd.jpg" data-actualsrc="/assets/announce/v2-0e59655b5923a74d2cefb7b80b4ad41e_hd.jpg"
                                 data-lazy-status="ok"></figure>
-                        <ul>
+                        <ul style="text-align: center;">
                             <li>
                                 <b>感谢北美创投圈的知名人士</b><br><b>北美创投圈的领军人物纷纷为易美发声</b>，<br>转发声明并表示<b>支持易美！</b><br><b>支持易美创始人！</b><br>在这个自顾不暇的年代，<br>依然怀揣着一颗<b>赤诚之心，正义之心！</b><br>
                             </li>
@@ -2538,7 +2538,7 @@ year: 2019
                             <figcaption>北美创投圈的企业负责人和知名人士对此事件发表的看法</figcaption>
                         </figure>
                         <ul>
-                            <li>
+                            <li style="text-align: center;">
                                 <b>感谢易美的老员工不忘初心</b><br>在得知易美被诽谤诋毁后，易美的老员工虽已离职回国，却仍心系易美，为易美打气，在别人问及时，耐心解释，重复着当年创业坚决不造假的誓言。<br>
                             </li>
                         </ul>
@@ -2560,7 +2560,7 @@ year: 2019
                             <figcaption>上图为易美老员工与前来咨询者的对话</figcaption>
                         </figure>
                         <ul>
-                            <li>
+                            <li style="text-align: center;">
                                 <b>感谢签约客户对我们服务的肯定</b><br>如此谣言一出，按理来讲，最容易出现恐慌的是易美的学员及家长，担心自己的申请会因此受到影响。但易美的学员和家长却<b>对易美充满信心！</b>无一提出质疑，都<b>坚定不移地继续选择易美</b>，这也是我们<b>易美服务品质的证明！</b>
                             </li>
                         </ul>
@@ -2579,7 +2579,7 @@ year: 2019
                                 data-rawheight="707" class="origin_image zh-lightbox-thumb lazy" width="638" data-original="/assets/announce/v2-6ae64ee1b099de6a7f699fd69f54ff1b_hd.jpg" data-actualsrc="/assets/announce/v2-6ae64ee1b099de6a7f699fd69f54ff1b_hd.jpg"
                                 data-lazy-status="ok"></figure>
                         <ul>
-                            <li><b>感谢选择不轻易相信的热心同学</b><br>在群里有人散播谣言之时，热心同学积极向学联求证，得到回复后，主动将聊天截图发回到被传谣的微信群中，以正视听。<br>
+                            <li style="text-align: center;"><b>感谢选择不轻易相信的热心同学</b><br>在群里有人散播谣言之时，热心同学积极向学联求证，得到回复后，主动将聊天截图发回到被传谣的微信群中，以正视听。<br>
                             </li>
                         </ul>
                         <figure data-size="normal" style="text-align: center;"><noscript><img
@@ -2590,7 +2590,7 @@ year: 2019
                                 data-rawheight="860" class="origin_image zh-lightbox-thumb lazy" width="584" data-original="/assets/announce/v2-3ec7e99e231bde3ceac42da1ab649ce3_hd.jpg" data-actualsrc="/assets/announce/v2-3ec7e99e231bde3ceac42da1ab649ce3_hd.jpg"
                                 data-lazy-status="ok"></figure>
                         <ul>
-                            <li><b>感谢心存正义感的你</b><br>感谢冷静思考理智判断，仗义执言的你们，<b>你们是这个世界最闪亮的星！</b></li>
+                            <li style="text-align: center;"><b>感谢心存正义感的你</b><br>感谢冷静思考理智判断，仗义执言的你们，<b>你们是这个世界最闪亮的星！</b></li>
                         </ul>
                         <p>诽谤文下评论区的质疑声</p>
                         <figure data-size="normal" style="text-align: center;"><noscript><img
@@ -2634,7 +2634,7 @@ year: 2019
                         </figure>
                         <p>
                             <b>“立足北美，放眼世界，专注国际化精英教育，成为最具公信力的国际教育企业”是易美教育多年在美国脚踏实地、负重前行的目标和理想，我们希望通过夜以继日的努力和优秀的成果，来回馈客户的信赖与支持！正义可能会迟到，但是永远不会缺席，请大家拭目以待！</b><br><br>
-                            <b>易美教育</b><br> <b>2019年12月6日</b></p>
+                            <div style="text-align: right;"><b>易美教育</b><br> <b>2019年12月6日</b></p><div>
                         </span>
                     </div>
                     <div>
