@@ -2218,7 +2218,7 @@ year: 2019
                     </span>
 
 
-                    <em id="publish_time" class="rich_media_meta rich_media_meta_text"></em>
+                    
 
 
 
@@ -2248,7 +2248,7 @@ year: 2019
                     <div class="RichContent-inner"><span class="RichText ztext CopyrightRichText-richText"
                             itemprop="text">
                             <p>
-                              <b>易美教育被同行业竞争对手和网络黑手恶意中伤事件的真相始末和官方声明</b><br>自2019年6月至今，易美教育持续遭受到同行业竞争对手的大规模、有组织、持续性的网络谣言攻击和恶意传播，对方盗用易美教育创始人微信头像、制作虚假客户聊天记录、恶意捏造虚假信息混淆视听，文中充斥大量诽谤、恶意中伤创始人等毫无根据的恶劣言论，给公司商誉和创始人公众形象带来极为严重的伤害。依照中华人民共和国现行有效的法律法规，涉案言论的捏造、散布、转载传播者已经涉嫌侵害了易美教育和创始人的名誉权等权利，其中部分蓄意捏造、散布虚假事实者涉嫌构成刑事犯罪。目前，我司已将相关法律证据进行公证保全，已通过法律途径将部分造谣者提起法律诉讼。对此等卑劣行为，易美教育严正声明如下：
+                              自2019年6月至今，易美教育持续遭受到同行业竞争对手的大规模、有组织、持续性的网络谣言攻击和恶意传播，对方盗用易美教育创始人微信头像、制作虚假客户聊天记录、恶意捏造虚假信息混淆视听，文中充斥大量诽谤、恶意中伤创始人等毫无根据的恶劣言论，给公司商誉和创始人公众形象带来极为严重的伤害。依照中华人民共和国现行有效的法律法规，涉案言论的捏造、散布、转载传播者已经涉嫌侵害了易美教育和创始人的名誉权等权利，其中部分蓄意捏造、散布虚假事实者涉嫌构成刑事犯罪。目前，我司已将相关法律证据进行公证保全，已通过法律途径将部分造谣者提起法律诉讼。对此等卑劣行为，易美教育严正声明如下：
                             </p>
                             <p><b>一、 被黑事件和真相始末还原（详情也可点击微信或浏览器点击</b><a
                                 href="https://mp.weixin.qq.com/s/HgeYAG20AAZZGWFNbeYu-Q"
@@ -2357,7 +2357,7 @@ year: 2019
                                             Chen是被骗的，还是骗人的？</b><br>一个痛斥别人造假，口口声声要“维权”的“受害者”，居然通过技术手段造假录取信蒙骗他人？<br><b>为什么在学联询问的情况下默不作声，不与易美对质？</b><br>一名学生，如果权益受到侵害，为什么不采用法律手段维权，而是伪造假录取信进普渡大学新生群散播信息呢？并且从2019年6月至2019年12月持续运用各种公关团队进行散播，所谓的“受害者”均以第一人称视角叙述事件，其中没有任何易美官方的汇款记录、合同等重要证据，在没有得到合同以及未确认录取信真实性的情况下去给公司汇款，超乎常理。<br><b>从制造假录取信，到进群散播信息，再到其他群及各大平台转发，一系列操作乃个人行为？</b><br><b>为此，相关媒体转载的源文章被微信平台判定为涉嫌侵权并已被腾讯微信平台删除，具体证据请看下图（微信或浏览器请点击：</b>
                             <a
                                 href="https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzA3MTQ3OTg3MQ%3D%3D%26mid%3D2652518541%26idx%3D1%26sn%3Ddf793a4026dcde2d775763d401d34de3%26chksm%3D84c27fddb3b5f6cb4d7e85f3f24875dd783be24e6005b5592d0f71c6b75abe199ebe38bc8dcb%26_from_dispute%3D1%23wechat_redirect"
-                                class=" external" target="_blank" rel="nofollow noreferrer" data-za-detail-view-id="1043"><span class="invisible">https://</span><span class="visible">mp.weixin.qq.com/s?</span><span class="invisible">__biz=MzA3MTQ3OTg3MQ==&amp;mid=2652518541&amp;idx=1&amp;sn=df793a4026dcde2d775763d401d34de3&amp;chksm=84c27fddb3b5f6cb4d7e85f3f24875dd783be24e6005b5592d0f71c6b75abe199ebe38bc8dcb&amp;_from_dispute=1#wechat_redirect</span>
+                                class=" external" target="_blank" rel="nofollow noreferrer" data-za-detail-view-id="1043"><span>https://</span><span class="visible">mp.weixin.qq.com/s?...</span>
                                 <span
                                     class="ellipsis"></span>
                                     </a><b>）：</b><br></p>
@@ -2410,7 +2410,7 @@ year: 2019
                         <p>
                             <b>三、易美教育多年积累的企业信誉赢得学生组织、学生和家长的持久信赖</b><br>易美教育多年来持续致力于抵制留学行业美国成绩单造假行为，为学生普及相关知识，并不断呼吁美国留学生提高警惕，选择有实力的正规机构。正因如此，公司势必影响到不法机构的商业利益。公司在内部严令禁止美国成绩单造假等行为，对员工培训和职业操守都有严格的规定，这是易美教育多年来对学生和家长的庄严承诺。<b>历经数月的融资法务调查完成上市公司的战略投资，连续三年深入走访美国几十所高校，从未有过任何成绩单造假现象被投诉，也是公司信誉最好的证明。</b>诚实守信是我们易美多年来秉承的价值观，也是我们服务客户的底线。
                         </p>
-                        <ul>
+                        <ul style="text-align: center;">
                             <li><b>感谢多年支持易美的学生组织、学生和家长</b></li>
                         </ul>
                         <p>事发第一时间，普渡学生会主席联系到易美创始人，易美创始人在通话中<b>立即录制手机视频</b>，证实<b>没有此人微信好友。</b><br></p>
