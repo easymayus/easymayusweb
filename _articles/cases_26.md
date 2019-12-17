@@ -3,7 +3,7 @@ layout: post
 sequence: 26
 appear_page: news success 
 type: easymaycases
-success_type: science undergrad
+success_type: science
 src: /assets/articles/article027.jpg
 title: "易美捷报丨康奈尔大学化学工程放榜！易美学子再斩藤校录取！"
 title_short: 康奈尔大学化学工程放榜！易美学子再斩藤校录取！
