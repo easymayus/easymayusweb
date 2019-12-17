@@ -3,7 +3,7 @@ layout: post
 sequence: 27
 appear_page: news success 
 type: easymaycases
-success_type: fineart undergrad
+success_type: fineart
 src: /assets/articles/article028.jpg
 title: "易美捷报丨顶级学术殿堂Top20圣路易斯华盛顿大学金融硕士录取"
 title_short: 顶级学术殿堂Top20圣路易斯华盛顿大学金融硕士录取
