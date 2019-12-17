@@ -3,7 +3,7 @@ layout: post
 sequence: 25
 appear_page: news success 
 type: easymaycases
-success_type: science undergrad
+success_type: science
 src: /assets/articles/article026.jpg
 title: "易美捷报丨恭喜易美学子斩获藤校康奈尔录取，申请季再攀新高"
 title_short: 恭喜易美学子斩获藤校康奈尔录取，申请季再攀新高
