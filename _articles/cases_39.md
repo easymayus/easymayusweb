@@ -10,7 +10,7 @@ title: "捷报｜易美VVIP斩获宾大文理学院本科ED录取OFFER
 title_short: 易美VVIP斩获宾大文理学院本科ED录取OFFER
 use_short_title: nan
 description: 美东时间16日晚7点，宾夕法尼亚大学发布了2024届本科ED录取Offer，并且公布了相关数据。2024届本科ED，宾大共收到6,453份申请，录取1,269人，ED录取率在19.7%。
-year: 2019
+year: 2020
 ---
 
 

@@ -9,7 +9,7 @@ title: "易美VVIP连续两年斩获宾大沃顿商学院本科ED录取OFFER！"
 title_short: 易美VVIP连续两年斩获宾大沃顿商学院本科ED录取OFFER！
 use_short_title: nan
 description: 美东时间2019年12月16日晚七点，易美教育强势斩获宾夕法尼亚大学沃顿商学院2024届本科早申请（ED）录取Offer！易美作为美国公信力第一的高端留学品牌又一次迎来了激动人心的时刻，对B同学来说更是圆梦名校之路的起点！
-year: 2019
+year: 2020
 ---
 
 
