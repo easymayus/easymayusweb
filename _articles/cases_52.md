@@ -1,6 +1,6 @@
 ---
 layout: post
-sequence: 52
+sequence: 189
 appear_page: news
 type: easymaynews school_showcase
 success_type: nan
