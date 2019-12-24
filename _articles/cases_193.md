@@ -1,7 +1,7 @@
 ---
 layout: post
 sequence: 8
-appear_page: news
+appear_page: news easymaycase
 type: easymaynews school_showcase
 success_type: nan
 src: /assets/articles/article205.jpg
