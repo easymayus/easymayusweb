@@ -109,7 +109,8 @@ layout: default
                 <div id="casesgrid" class="gallery-isotope default-animation-effect grid-4 gutter-30 clearfix">
 
                  <!-- success cases display -->
-                {% assign sorted = site.articles | sort:"sequence","last" %}
+                {% assign rsorted = site.articles | sort:"sequence" %}
+                {% assign sorted = rsorted | reverse %}
                 {% for story in sorted %}
                 {% if story.appear_page contains 'success' %}
                 <div class="gallery-item cases {{story.type}} {{story.success_type}}">
