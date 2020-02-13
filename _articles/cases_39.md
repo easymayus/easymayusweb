@@ -1,7 +1,7 @@
 ---
 layout: post
 sequence: 39
-appear_page: news success index_short
+appear_page: news success 
 type: easymaycases
 success_type: undergrad
 src: /assets/articles/article203.jpg
