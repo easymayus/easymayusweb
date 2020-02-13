@@ -233,7 +233,7 @@ partner_array:
                   <div class="post-thumb position-relative">
                   <img class="img-fullwidth" src="{{article.src}}" alt="" title="" height="172px" width="260px"> <span>易美独家</span></div>
                   <div class="post-description pb-20">
-                  <h5 class="font-weight-600 text-gray-lightgray mt-20 mb-0">2019</h5>
+                  <h5 class="font-weight-600 text-gray-lightgray mt-20 mb-0">2020</h5>
                   <a href="{{article.url}}" target="_blank">
                   <h3 class="title text-theme-colored2 font-weight-600 mt-0 mb-15 font-14 on-hover-underlined">
                   {% if article.use_short_title == "true" %}
