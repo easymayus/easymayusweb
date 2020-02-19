@@ -1,7 +1,7 @@
 ---
 layout: post
 sequence: 118
-appear_page: news success index_short
+appear_page: news success 
 type: easymaycases
 success_type: fineart
 src: /assets/articles/article130.jpg

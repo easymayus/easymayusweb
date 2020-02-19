@@ -1,7 +1,7 @@
 ---
 layout: post
 sequence: 87
-appear_page: news success index_short
+appear_page: news success 
 type: easymaycases
 success_type: science
 src: /assets/articles/article099.jpg

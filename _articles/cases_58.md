@@ -1,7 +1,7 @@
 ---
 layout: post
 sequence: 58
-appear_page: news  easymaycase index_short
+appear_page: news  easymaycase 
 type: easymaycases
 success_type: nan
 src: /assets/articles/article066.jpg
