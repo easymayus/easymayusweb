@@ -4,9 +4,23 @@
   <!-- Meta Tags -->
   <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
   <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
-  <meta name="description" content="易美高端留学 Easymayus 美国高端留学服务"/>
-  <meta name="keywords" content="易美高端留学,Easymayus,美国高端留学服务,易美教育 "/>
-  <meta name="author" content="ThemeMascot"/>
+  {% if page.description %}
+    <meta name="description" content={{ page.description}}/>
+  {% else if post.description %}
+    <meta name="description" content={{ post.description}}/>
+  {% else %}
+    <meta name="description" content="易美高端留学 Easymayus 美国高端留学服务"/>
+  {% endif %}
+
+  {% if page.keywords %}
+    <meta name="keywords" content={{ page.keywords}}/>
+  {% else if post.keywords %}
+    <meta name="keywords" content={{ post.keywords}}/>
+  {% else %}
+    <meta name="keywords" content="易美高端留学,Easymayus,美国高端留学服务,易美教育"/>
+  {% endif %}
+
+  <meta name="author" content="EasyMayUs"/>
 
   <!-- Fonts-->
   <link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700" rel="stylesheet">
@@ -86,6 +100,7 @@
   <![endif]-->
 
   <link rel="stylesheet" href="/css/customized.css">
+  <link rel="stylesheet" href="/css/wechat.css">
 
   {% feed_meta %}
     {% seo %}
@@ -133,6 +148,12 @@
   document.getElementById("outterLink1").addEventListener("click", function(){
     window.open("https://mp.weixin.qq.com/s/ulHtPMgRhGi3l1c58qD75g", '_blank')
   });
+  window.onresize = function () {
+    var ele = document.getElementById("home")
+    var resizeHeight = ele.offsetWidth  * 0.46
+    ele.style.height = Math.round(resizeHeight) + "px";
+    console.log(resizeHeight)
+  }
 </script>
 </body>
 </html>
