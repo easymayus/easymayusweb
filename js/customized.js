@@ -1,7 +1,10 @@
 
 (function($) {
   "use strict";
+  resizeBanner()
+
 // Wrap every letter in a span
+  $('.carousel').carousel()
   $('.ml12').each(function(){
     $(this).html($(this).text().replace(/([^\x00-\x80]|\w)/g, "<span class='letter'>$&</span>"));
   });
@@ -27,4 +30,15 @@
       return 100 + 30 * i;
     }
   });
+
+  $(window).on('resize', function (e) {
+    resizeBanner()
+  })
+
+  function resizeBanner(){
+    var $home = $("#home")
+    var rHeight = Math.round($home.width() * 0.46)
+    rHeight = rHeight <= 650 ? rHeight : 650
+    $home.css('min-height', rHeight)
+  }
 })(jQuery);
