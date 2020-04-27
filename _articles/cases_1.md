@@ -1,6 +1,6 @@
 --- 
 layout: post 
-sequence: 1 
+sequence: 2 
 appear_page: easymaycase 
 type: nan 
 success_type: nan 
