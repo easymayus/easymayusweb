@@ -1,8 +1,8 @@
 ---
 ranking: 1-15
-school: 芝加哥大学
-description: 全美第三
-src: /assets/offer_update/032.jpg
-major: 社会科学
+school: 宾夕法尼亚大学
+description: 全美第八
+src: /assets/offer_update/110.jpg
+major: 本科
 sequence: 32
 ---

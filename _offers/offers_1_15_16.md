@@ -1,8 +1,8 @@
 ---
 ranking: 1-15
-school: 哥伦比亚大学
-description: 全美第三
-src: /assets/offer_update/016.jpg
-major: 金融数学.
+school: 耶鲁大学
+description: 全美第四
+src: /assets/offer_update/096.jpg
+major: 统计学
 sequence: 16
 ---

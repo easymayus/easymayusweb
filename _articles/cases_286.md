@@ -1,6 +1,6 @@
 ---
 layout: post
-sequence: 1013
+sequence: 286
 appear_page: news success 
 type: easymaycases
 success_type: science

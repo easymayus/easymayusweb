@@ -2,7 +2,7 @@
 ranking: 16-30
 school: New York University
 description: US Top30
-src: /assets/offer_2018-19/070.jpg
+src: /assets/offer_update/070.jpg
 major: SPS
 sequence: 97
 ---

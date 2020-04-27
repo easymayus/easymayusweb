@@ -1,8 +1,8 @@
 ---
 ranking: 1-15
-school: 宾夕法尼亚大学
-description: 全美第六
-src: /assets/offer_update/043.jpg
-major: 计算机图形与游戏技术
+school: 约翰霍普金斯大学
+description: 全美第十
+src: /assets/offer_update/040.jpg
+major: 市场营销
 sequence: 43
 ---

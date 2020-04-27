@@ -216,12 +216,12 @@ partner_array:
           <div class="row justify-content-center">
             <div class="section-title text-center pl-15 pr-15">
 
-              <a href="success.html"><h2 class="title-effect text-theme-colored2 mt-0">易美明星案例故事</h2></a>
+              <a href="success.html"><h2 class="title-effect text-theme-colored2 mt-0">易美成功案例故事</h2></a>
               <p class="text-white">整合美国顶尖教育资源，以实力创造辉煌成就</p>
             </div>
           </div>
           <div class="section-content">
-            <div class="row pl-0 pr-0">
+            <div class="row pl-15 pr-15">
               <div class="owl-carousel-5col memorabilia" data-duration="1000">
 
             {% assign ar = site.articles | sort:"sequence" %}
@@ -231,7 +231,7 @@ partner_array:
                 <div class="item">
                   <article class="post">
                   <div class="post-thumb position-relative">
-                  <img class="img-fullwidth" src="{{article.src}}" alt="" title="" height="120px" width="220px"> <span>易美独家</span></div>
+                  <img class="img-fullwidth" src="{{article.src}}" alt="" title="" height="172px" width="260px"> <span>易美独家</span></div>
                   <div class="post-description pb-20">
                   <h5 class="font-weight-600 text-gray-lightgray mt-20 mb-0">2020</h5>
                   <a href="{{article.url}}" target="_blank">
@@ -286,13 +286,13 @@ partner_array:
               <div class="col-md-12">
 
           <!-- Portfolio Gallery Grid -->
-        <div id="grid" class="gallery-isotope default-animation-effect grid-3 gutter clearfix" >
+        <div id="grid" class="gallery-isotope default-animation-effect grid-3 gutter clearfix">
 
           <!-- Portfolio Item Start -->
             {% assign ris = site.recruiterintros | sort:"sequence" %}
             {% for ri in ris %}
 
-              <div class="gallery-item" style="width: 33.3333%;">
+              <div class="gallery-item">
                 <div class="project-gallery">
                    <div class="project-thumb"><img class="img-fullwidth" alt="" src="{{ri.src}}">
                         <div class="project-caption font-11"> 
@@ -535,7 +535,7 @@ partner_array:
 
                 <div class="item">
                   <article class="post">
-                    <div class="post-thumb position-relative"><img src="{{case.src}}" class="img-fullwidth" alt="" width="300" height = "182" > <span>易美独家</span></div>
+                    <div class="post-thumb position-relative"><img src="{{case.src}}" class="img-fullwidth" alt="" height = "246" > <span>易美独家</span></div>
                     <div class="post-description pb-20">
                       <h5 class="font-weight-600 text-gray-lightgray mt-20 mb-0">{{case.year}}</h5>
                       <h3 class="post-title text-theme-colored2 font-weight-600 mt-0 mb-20 font-20">
@@ -544,7 +544,7 @@ partner_array:
                       <p class="mb-20 short-desc-text">
                         {{case.description}}
                       </p>
-                      <a href="{{case.url}}" target="_blank"><span style="color: #000;background-color: #e4ce97;">了解更多</span></a>
+                      <a href="{{case.url}}" target="_blank">了解更多</a>
                     </div>
                   </article>
                 </div>
@@ -575,7 +575,7 @@ partner_array:
             {% for re in report %}
             <div class="col-md-6 col-sm-12 col-xs-12" style="position: relative; left: 0; top: 0; margin: 5px 0; overflow: hidden;">
               <div class="media homepageMedia">
-                <img class="report-img" src="{{re.src}}" height="80" width="80">
+                <img class="report-img" src="{{re.src}}" height="80">
                 <div class="feature-icon media-icon mr-4">
                 <span class="ti-user text-theme-colored2"></span>
                 </div>

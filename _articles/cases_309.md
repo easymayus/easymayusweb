@@ -1,6 +1,6 @@
 ---
 layout: post
-sequence: 1027
+sequence: 309
 appear_page: news success 
 type: easymaycases
 success_type: fineart

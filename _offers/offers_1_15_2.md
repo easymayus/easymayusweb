@@ -1,8 +1,8 @@
 ---
 ranking: 1-15
 school: 宾夕法尼亚大学
-description: 全美第六
+description: 全美第一
 src: /assets/offer_update/002.jpg
-major: 文理学院
+major: 商学院
 sequence: 2
 ---

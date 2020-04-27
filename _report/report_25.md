@@ -1,8 +1,8 @@
 ---
-title: 易美教育前哥大招生官14场校园行讲座圆满收官
-out_url: https://caijing.chinadaily.com.cn/a/201911/14/WS5dcd0b0ca31099ab995ebf5d.html
+title: 提供一站式留学解决方案，易美教育获完成数千万人民币战略投资
+out_url: https://www.123duang.com/chuangtouzixun/4836.html
 src: /assets/reports/15.jpg
 platform: 123duang
 sequence: 25
-description: 2019年9月-11月，易美教育携手「前哥伦比亚大学招生官西顿先生」走进各大校园。历经数月，共走访中东部学校14所，从明尼苏达到新泽西。脚步遍布美国中东部十几个州，横跨2千多英里，讲座覆盖人数近数千人，总计线下活动时间长达五十多个小时。
+description: 1月23日消息，美国高端教育咨询机构易美教育(Easymay Education )宣布完成数千万人民币战略投资，战略投资方是易居中国。易美教育创始人兼CEO崔易宁透露，本轮融资后易美将继续深耕美国顶尖教育资源、进一步扩大品牌建设、深化中美市场的战略布局以及完成集团化管理进程。
 ---

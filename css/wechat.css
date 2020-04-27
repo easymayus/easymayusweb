@@ -98,8 +98,7 @@
 
 .blog-posts h1, .blog-posts h2, .blog-posts h3, .blog-posts h4, .blog-posts h5, .blog-posts h6 {
   font-weight: 400;
-  font-size: 16px; 
-   color: #000;}
+  font-size: 16px; }
 
 .blog-posts * {
   margin: 0;
