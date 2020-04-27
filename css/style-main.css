@@ -3610,11 +3610,13 @@ form select {
 /* -------- Portfolio Isotop Overlay Effect ---------- */
 
 .gallery-isotope.default-animation-effect .gallery-item {
-	overflow: hidden;
+	overflow: hidden !important;
+	position: relative;
+	-ms-scroll-limit: 0 0 0 0 !important;
 }
 .gallery-isotope.default-animation-effect .gallery-item .thumb {
 	position: relative;
-	overflow: hidden;
+	overflow: hidden !important;
 }
 .gallery-isotope.default-animation-effect .gallery-item .hover-link-video,
 .gallery-isotope.default-animation-effect .gallery-item .hover-link {
@@ -3625,8 +3627,8 @@ form select {
 	vertical-align: middle;
 	width: 100%;
 	height: 100%;
-	background: none!important;
-	color: transparent!important;
+	background: none !important;
+	color: transparent !important;
 	z-index: 13;
 }
 .gallery-isotope.default-animation-effect .gallery-item .overlay-shade {
@@ -8669,8 +8671,8 @@ blockquote p {
 	max-width: 400px;
 }
 .project-gallery .project-thumb {
-	overflow-x: hidden;
-	overflow-y: scroll;
+	overflow: hidden !important;
+	-ms-scroll-limit: 0 0 0 0 !important;
 	position: relative;
 }
 .project-gallery .project-thumb::before {
@@ -9289,7 +9291,7 @@ section:hover .title-effect::before, section:focus .title-effect::before {
 }
 .professions-content .image-box-details {
 	background-color: #1e1e1e;
-	overflow-y: scroll;
+	overflow: hidden !important;
 }
 .professions-content .title {
 	color: #4c4c4c !important;
@@ -9581,6 +9583,9 @@ section:hover .title-effect::before, section:focus .title-effect::before {
 .slider-container {
 	height: 600px;
 }
+.slider-videocontainer {
+	height: 600px;
+}
 .services-list .title-bg {
 	color: #fff;
 	background-color: #bc8740;
@@ -9645,9 +9650,15 @@ section:hover .title-effect::before, section:focus .title-effect::before {
 }
 .slider-container .video-js {
 	width: 100%;
-	z-index: -1;
-	position: relative;
+	position: absolute;
+	
+	
 }
+
+video::-webkit-media-controls {
+	display:none !important;
+  }
+  
 .slider-container .btn {
 	position: relative;
 	z-index: 22;
@@ -10054,7 +10065,7 @@ footer.footer_border_columns .qode_column > .column_inner {
 }
 .professions-content .ptext {
 	height: 182px;
-  overflow-y: scroll;
+	overflow: hidden !important;
 	color: #fff;
 }
 .preload {
@@ -10385,7 +10396,7 @@ footer.footer_border_columns .qode_column > .column_inner {
 	height: 600px;
 }
 .slider-container .video-js {
-	margin-top: -88px  !important;
+	margin-top: -50px  !important;
 }
 }
 
@@ -11359,6 +11370,9 @@ body.has-fixed-footer .main-content {
 Media Report Img
 */
 .report-img {
+	min-width: 80px !important;
+	max-width: 80px !important;
+	width: 80px !important;
 	cursor: pointer;
   	transition: all 0.6s;
 }

@@ -8,48 +8,42 @@ src: /assets/articles/article094.jpg
 title: "易美教育被同行业竞争对手和网络黑手恶意中伤事件的真相始末和官方声明 " 
 title_short: 易美教育被同行业竞争对手和网络黑手恶意中伤事件的真相始末和官方声明 
 use_short_title: nan 
-description: 自2019年6月至今，易美教育持续遭受到同行业竞争对手的大规模、有组织、持续性的网络谣言攻击和恶意传播，对方盗用易美教育创始人微信头像、制作虚假客户聊天记录、恶意捏造虚假信息混淆视听，文中充斥大量诽谤、恶意中伤创始人等毫无根据的恶劣言论，给公司商誉和创始人公众形象带来极为严重的伤害。
-keywords: 2019,谣言,易美
+description: 自2019年6月至今，易美教育持续遭受到同行业竞争对手的大规模、有组织、持续性的网络谣言攻击和恶意传播，对方盗用易美教育创始人微信头像、制作虚假客户聊天记录、恶意捏造虚假信息混淆视听，文中充斥大量诽谤、恶意中伤创始人等毫无根据的恶劣言论，给公司商誉和创始人公众形象带来极为严重的伤害，易美教育，崔易宁，易美，诈骗，恶意攻击，8万美金，学校开除，易美留学，易美留学崔易宁诈骗还钱，
+keywords: 易美教育，崔易宁， 易美， 诈骗， 恶意攻击， 8万美金， 学校开除， 易美留学， 易美留学崔易宁诈骗还钱，
 year: 2019 
 ---
 
 
 <body id="activity-detail" class="zh_CN mm_appmsg  appmsg_skin_default appmsg_style_default ">
 
-    <div id="js_article" class="rich_media">
+<div id="js_article" class="rich_media">
 
-        <div id="js_top_ad_area" class="top_banner"></div>
+<div id="js_top_ad_area" class="top_banner"></div>
 
-        <div class="rich_media_inner">
-
-
-
-            <div id="page-content" class="rich_media_area_primary">
-
-                <div class="rich_media_area_primary_inner">
+<div class="rich_media_inner">
 
 
+<div id="page-content" class="rich_media_area_primary">
+
+<div class="rich_media_area_primary_inner">
 
 
+<div id="img-content">
 
-                    <div id="img-content">
+<h2 class="rich_media_title" id="activity-name">
+    易美教育被同行业竞争对手和网络黑手恶意中伤事件的真相始末和官方声明
+</h2>
 
-                        <h2 class="rich_media_title" id="activity-name">
-
-
-
-                            易美教育被同行业竞争对手和网络黑手恶意中伤事件的真相始末和官方声明
-                        </h2>
-                        <div id="meta_content" class="rich_media_meta_list">
-                            <span id="copyright_logo" class="rich_media_meta rich_media_meta_text meta_tag_text">原创：</span>
-                            <span class="rich_media_meta rich_media_meta_text">
+<div id="meta_content" class="rich_media_meta_list">
+    <span id="copyright_logo" class="rich_media_meta rich_media_meta_text meta_tag_text">原创：</span>
+            <span class="rich_media_meta rich_media_meta_text">
                                 易美教育
                             </span>
 
-                            <span class="rich_media_meta rich_media_meta_nickname" id="profileBt">
-                                <a href="javascript:void(0);" id="js_name">
-                                    易美教育 Easymay </a>
-                                <div id="js_profile_qrcode" class="profile_container" style="display:none;">
+        <span class="rich_media_meta rich_media_meta_nickname" id="profileBt">
+        <a href="javascript:void(0);" id="js_name">易美教育 Easymay </a>
+
+<div id="js_profile_qrcode" class="profile_container" style="display:none;">
                                     <div class="profile_inner">
                                         <strong class="profile_nickname">易美教育 Easymay</strong>
                                         <img class="profile_avatar" id="js_profile_qrcode_img" src="" alt="">
@@ -72,40 +66,27 @@ year: 2019
                     </div>
                     </span>
 
+</div>
 
-                    
-
-
-
-
-
-                </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                <div class="rich_media_content " id="js_content">
+<div class="rich_media_content " id="js_content">
                     <div class="RichContent-inner"><span class="RichText ztext CopyrightRichText-richText"
                             itemprop="text">
                             <p>
-                              自2019年6月至今，易美教育持续遭受到同行业竞争对手的大规模、有组织、持续性的网络谣言攻击和恶意传播，对方盗用易美教育创始人微信头像、制作虚假客户聊天记录、恶意捏造虚假信息混淆视听，文中充斥大量诽谤、恶意中伤创始人等毫无根据的恶劣言论，给公司商誉和创始人公众形象带来极为严重的伤害。依照中华人民共和国现行有效的法律法规，涉案言论的捏造、散布、转载传播者已经涉嫌侵害了易美教育和创始人的名誉权等权利，其中部分蓄意捏造、散布虚假事实者涉嫌构成刑事犯罪。目前，我司已将相关法律证据进行公证保全，已通过法律途径将部分造谣者提起法律诉讼。对此等卑劣行为，易美教育严正声明如下：
+                             自2019年6月至今，易美教育持续遭受到同行业竞争对手的大规模、有组织、持续性的网络谣言攻击和恶意传播，对方盗用易美教育创始人微信头像、制作虚假客户聊天记录、恶意捏造虚假信息混淆视听，文中充斥大量诽谤、恶意中伤创始人等毫无根据的恶劣言论，给公司商誉和创始人公众形象带来极为严重的伤害。依照中华人民共和国现行有效的法律法规，涉案言论的捏造、散布、转载传播者已经涉嫌侵害了易美教育和创始人的名誉权等权利，其中部分蓄意捏造、散布虚假事实者涉嫌构成刑事犯罪。为了及时制止谣言的传播，易美教育及创始人崔易宁先生严正声明如下：
                             </p>
-                            <p><b>一、 被黑事件和真相始末还原（详情也可点击微信或浏览器点击</b><a
+                            <p></p>
+                            <p><b>一、目前，易美教育及创始人崔易宁先生已完成相关诽谤证据公证，并将掌握的证据线索向公安机关正式报案，并将配合公安机关依法打击此不法行为，公安机关现已正式受理此案，并对此案展开全面侦查，案件接报回执单（公章）如下图：</b></p>
+                            <img src="https://easymayusweb2.oss-ap-northeast-1.aliyuncs.com/article_pics/001-1.jpg" style="display: block;
+                              margin-left: auto; margin-right: auto;" data-size="normal" data-rawwidth="800" data-rawheight="1244" class="origin_image zh-lightbox-thumb" width="596"/>
+                            <p>根据中华人民共和国刑法第二百二十一条之规定，捏造并散布虚伪事实，损害他人的商业信誉、商品声誉，给他人造成重大损失或者有其他严重情节的可构成损害商业信誉、商品信誉罪，将被处以二年以下有期徒刑或者拘役，并处或者单处罚金。涉案言论的捏造、散布、转载传播者已经涉嫌侵害了易美教育和创始人崔易宁先生的名誉权等权利，其中部分蓄意捏造、散布虚假事实者涉嫌构成刑事犯罪。</p>
+                            <p></p>
+                            <p><b>二、此外，我司已经针对部分网络平台的恶意转载者采取法律措施，法院立案的相关证据请看下图：</b></p>
+                            <img src="https://easymayusweb2.oss-ap-northeast-1.aliyuncs.com/article_pics/001-2.jpg" style="display: block;
+                              margin-left: auto; margin-right: auto;" data-size="normal" data-rawwidth="596" data-rawheight="1244" class="origin_image zh-lightbox-thumb" width="596"/>
+                            <img src="https://easymayusweb2.oss-ap-northeast-1.aliyuncs.com/article_pics/001-3.jpg" style="display: block;
+                              margin-left: auto; margin-right: auto;" data-size="normal" data-rawwidth="596" data-rawheight="1244" class="origin_image zh-lightbox-thumb" width="596"/>
+                              <p></p>
+                            <p><b>三、 被黑事件和真相始末还原（详情也可点击微信或浏览器点击</b><a
                                 href="https://mp.weixin.qq.com/s/HgeYAG20AAZZGWFNbeYu-Q"
                                 class=" external" target="_blank" rel="nofollow noreferrer"
                                 data-za-detail-view-id="1043"><span class="invisible">https://</span><span
@@ -250,7 +231,7 @@ year: 2019
                         <p>上述提供图片均有视频与人证证实，欢迎广大第三方平台与我司核实。<br></p>
                         <hr>
                         <p>
-                            <b>二、诉诸法律途径，坚决与不法分子抗争</b><br>被大量网络用户和自媒体转载的文字和图片中，散播谣言者盗用创始人的微信信息并利用部分网络公开信息进行人为恶意捏造，形成虚假陈述、虚假谣言，<b>对于知悉真实情况的相关美国学生组织和个人也对此事件进行了全面核实和辟谣。</b>易美教育在此严正声明，我们坚决依靠法律手段维护公司的合法权益！易美已将所有诽谤和散播谣言证据在中美两地完成法律证据保全，并将部分相关人员告上法庭，以示公司将与不法分子和恶势力斗争的决心。<br>
+                            <b>四、诉诸法律途径，坚决与不法分子抗争</b><br>被大量网络用户和自媒体转载的文字和图片中，散播谣言者盗用创始人的微信信息并利用部分网络公开信息进行人为恶意捏造，形成虚假陈述、虚假谣言，<b>对于知悉真实情况的相关美国学生组织和个人也对此事件进行了全面核实和辟谣。</b>易美教育在此严正声明，我们坚决依靠法律手段维护公司的合法权益！易美已将所有诽谤和散播谣言证据在中美两地完成法律证据保全，并将部分相关人员告上法庭，以示公司将与不法分子和恶势力斗争的决心。<br>
                         </p>
                         <figure data-size="normal" style="text-align: center;"><noscript><img
                                                 src="/assets/announce/v2-8bb976fc98e3ed66d8fd7a265f147de5_hd.jpg"
@@ -263,7 +244,7 @@ year: 2019
                         </figure>
                         <hr>
                         <p>
-                            <b>三、易美教育多年积累的企业信誉赢得学生组织、学生和家长的持久信赖</b><br>易美教育多年来持续致力于抵制留学行业美国成绩单造假行为，为学生普及相关知识，并不断呼吁美国留学生提高警惕，选择有实力的正规机构。正因如此，公司势必影响到不法机构的商业利益。公司在内部严令禁止美国成绩单造假等行为，对员工培训和职业操守都有严格的规定，这是易美教育多年来对学生和家长的庄严承诺。<b>历经数月的融资法务调查完成上市公司的战略投资，连续三年深入走访美国几十所高校，从未有过任何成绩单造假现象被投诉，也是公司信誉最好的证明。</b>诚实守信是我们易美多年来秉承的价值观，也是我们服务客户的底线。
+                            <b>五、易美教育多年积累的企业信誉赢得学生组织、学生和家长的持久信赖</b><br>易美教育多年来持续致力于抵制留学行业美国成绩单造假行为，为学生普及相关知识，并不断呼吁美国留学生提高警惕，选择有实力的正规机构。正因如此，公司势必影响到不法机构的商业利益。公司在内部严令禁止美国成绩单造假等行为，对员工培训和职业操守都有严格的规定，这是易美教育多年来对学生和家长的庄严承诺。<b>历经数月的融资法务调查完成上市公司的战略投资，连续三年深入走访美国几十所高校，从未有过任何成绩单造假现象被投诉，也是公司信誉最好的证明。</b>诚实守信是我们易美多年来秉承的价值观，也是我们服务客户的底线。
                         </p>
                         <ul style="text-align: center;">
                             <li><b>感谢多年支持易美的学生组织、学生和家长</b></li>

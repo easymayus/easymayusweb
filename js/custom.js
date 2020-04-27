@@ -150,6 +150,30 @@ var THEMEMASCOT = {};
         });
     });
 
+    $(".portfolio-filter .filter_2018").click(function() {
+        $("#casesgrid").find(".gallery-item").each(function(){
+            if($(this).hasClass("2018"))
+            {
+                $(this).show();
+            }
+            else {
+                $(this).hide();
+            }
+        });
+    });
+
+    $(".portfolio-filter .filter_2019").click(function() {
+        $("#casesgrid").find(".gallery-item").each(function(){
+            if($(this).hasClass("2019"))
+            {
+                $(this).show();
+            }
+            else {
+                $(this).hide();
+            }
+        });
+    });
+
 
 
     /* Ranking Filter */
@@ -211,17 +235,23 @@ var THEMEMASCOT = {};
         margin: 10,
         autoplay: false,
         nav: true,
-        items: 3,
+        items: 4,
         dots: false,
         responsive: {
             0: {
                 items: 1,
             },
+            375: {
+                items: 1,
+            },
+            414: {
+                items: 1,
+            },
             600: {
-                items: 2,
+                items: 3,
             },
             1000: {
-                items: 3,
+                items: 4,
             }
         }
     });
@@ -279,7 +309,7 @@ var THEMEMASCOT = {};
         margin: 10,
         autoplay: true,
         nav: true,
-        items: 4,
+        items: 6,
         dots: false,
         autoplayTimeout:2500,
         responsive: {
@@ -292,11 +322,17 @@ var THEMEMASCOT = {};
             414: {
                 items: 1,
             },
+            500: {
+                items: 1,
+            },
+            550: {
+                items: 1,
+            },
             600: {
-                items: 3,
+                items: 5,
             },
             1000: {
-                items: 4,
+                items: 6,
             }
         }
     });
