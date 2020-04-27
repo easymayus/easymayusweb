@@ -1,8 +1,8 @@
 ---
 ranking: 1-15
-school: 约翰霍普金斯大学
-description: 全美第十
-src: /assets/offer_update/047.jpg
-major: 计算机科学
+school: 西北大学
+description: 全美第九
+src: /assets/offer_update/050.jpg
+major: MC整合营销传播
 sequence: 50
 ---

@@ -1,8 +1,8 @@
 ---
 ranking: 1-15
-school: 宾夕法尼亚大学
-description: 全美第八
-src: /assets/offer_update/015.jpg
-major: 教育学
+school: 芝加哥大学
+description: 全美第三
+src: /assets/offer_update/029.jpg
+major: 公共政策
 sequence: 29
 ---

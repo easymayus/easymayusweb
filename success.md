@@ -9,7 +9,7 @@ layout: default
 
         <section id="home" class="divider">
             <div class="container-fluid p-0">
-                <img width="100%" src="assets/cases/cases.jpg">
+                <a href="https://easymayus.com/articles/cases_399.html"><img width="100%" src="assets/cases/cases.jpg"></a>
                 <div id="rev_slider_5_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-alias="test" data-source="gallery" style="margin:0px auto;background:#0c0b09;padding:0px;margin-top:0px;margin-bottom:0px;">
                     <!-- START REVOLUTION SLIDER 5.4.7.2 fullwidth mode -->
                 <!-- END REVOLUTION SLIDER -->

@@ -1,8 +1,8 @@
 ---
 ranking: 1-15
 school: 哥伦比亚大学
-description: 全美第五
-src: /assets/offer_update/102.jpg
-major: 机械工程
+description: 全美第三
+src: /assets/offer_update/020.jpg
+major: 化学工程
 sequence: 20
 ---
