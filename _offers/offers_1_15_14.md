@@ -1,8 +1,8 @@
 ---
 ranking: 1-15
-school: 芝加哥大学
+school: 哥伦比亚大学
 description: 全美第三
-src: /assets/offer_update/098.jpg
-major: 社会科学
+src: /assets/offer_update/014.jpg
+major: 公共卫生
 sequence: 14
 ---

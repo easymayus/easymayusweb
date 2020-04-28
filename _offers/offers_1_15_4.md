@@ -1,8 +1,8 @@
 ---
 ranking: 1-15
-school: 哥伦比亚大学
+school: 耶鲁大学
 description: 全美第三
 src: /assets/offer_update/004.jpg
-major: 教育学类专业
+major: 计算机科学
 sequence: 4
 ---

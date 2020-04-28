@@ -182,6 +182,9 @@ title: 易美教育 | Easymay
                   <a href="#" class="filter_15_30">综排16-30</a>
                   <a href="#" class="filter_30_50">综排31-50</a>
                   <a href="#" class="filter_art">艺术类招生</a>
+                  <a href="#" class="filter_2019">2019</a>
+                  <a href="#" class="filter_2018">2018</a>
+                  
               </div>
 
               <!-- Blog Masonry -->
@@ -195,7 +198,7 @@ title: 易美教育 | Easymay
                 <div class="gallery-item col-sm-3 {{offer.ranking}}">
                   <div class="box-hover-effect">
                     <div class="effect-wrapper">
-                      <div class="thumb"> <img class="img-fullwidth" src="{{offer.src}}" alt="project"> </div>
+                      <div class="thumb"> <img class="img-fullwidth" width="205px" height="465px" src="{{offer.src}}" alt="project"> </div>
                         <div class="image-box-details">
                           <div class="title font-20 pt-0 pb-0 mt-0 text-white"> {{offer.school}} </div>
                           <div class="location font-15 pt-0 pb-0 mt-0"> {{offer.description}} </div>
